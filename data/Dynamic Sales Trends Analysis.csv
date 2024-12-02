@@ -1,0 +1,901 @@
+Date,Product,Category,Price_per_Unit,Quantity_Sold,Location,Weather_Condition,Promotion,Total_Revenue,Seasonal_Quantity_Sold,Customer_Segment,Profit
+1/1/2019,Apples,Fruit,2.45,377,Malaga,Cold,10% off,831.29,377,Regular,166.26
+1/1/2019,Apples,Fruit,3.4,175,Seville,Sunny,20% off,476,175,Regular,95.2
+1/1/2019,Apples,Fruit,7.8,396,Seville,Sunny,None,3088.8,396,Budget,617.76
+1/1/2019,Oranges,Fruit,5.09,352,Barcelona,Sunny,None,1791.68,352,Premium,358.34
+1/1/2019,Oranges,Fruit,3.36,97,Malaga,Sunny,10% off,293.33,97,Budget,58.67
+1/1/2019,Oranges,Fruit,3.19,337,Malaga,Snowy,Buy 1 Get 1 Free,1075.03,337,Regular,215.01
+1/1/2019,Handmade Crafts,Handicraft,5.32,162,Barcelona,Cold,10% off,775.66,162,Premium,155.13
+1/1/2019,Handmade Crafts,Handicraft,8.89,464,Madrid,Rainy,Buy 1 Get 1 Free,4124.96,464,Regular,824.99
+1/1/2019,Handmade Crafts,Handicraft,5.09,407,Barcelona,Cold,20% off,1657.3,407,Regular,331.46
+1/1/2019,Souvenirs,Handicraft,3.33,129,Madrid,Cold,Buy 1 Get 1 Free,429.57,129,Budget,85.91
+1/1/2019,Souvenirs,Handicraft,2.29,102,Madrid,Sunny,None,233.58,102,Premium,46.72
+1/1/2019,Souvenirs,Handicraft,8.7,233,Barcelona,Cold,None,2027.1,233,Regular,405.42
+1/1/2019,Tomatoes,Vegetable,1.87,463,Madrid,Snowy,Buy 1 Get 1 Free,865.81,463,Premium,173.16
+1/1/2019,Tomatoes,Vegetable,2.56,324,Malaga,Snowy,None,829.44,324,Regular,165.89
+1/1/2019,Tomatoes,Vegetable,6.19,90,Valencia,Cold,20% off,445.68,90,Regular,89.14
+2/1/2019,Apples,Fruit,3.13,345,Seville,Sunny,20% off,863.88,345,Premium,172.78
+2/1/2019,Apples,Fruit,7.12,73,Madrid,Cold,10% off,467.78,73,Premium,93.56
+2/1/2019,Apples,Fruit,8.77,90,Madrid,Sunny,20% off,631.44,90,Budget,126.29
+2/1/2019,Oranges,Fruit,3.86,244,Barcelona,Cold,None,941.84,244,Regular,188.37
+2/1/2019,Oranges,Fruit,4.65,133,Seville,Rainy,20% off,494.76,133,Regular,98.95
+2/1/2019,Oranges,Fruit,3.77,393,Malaga,Sunny,10% off,1333.45,393,Budget,266.69
+2/1/2019,Handmade Crafts,Handicraft,6.9,361,Valencia,Rainy,Buy 1 Get 1 Free,2490.9,361,Budget,498.18
+2/1/2019,Handmade Crafts,Handicraft,5.43,133,Malaga,Cold,20% off,577.75,133,Regular,115.55
+2/1/2019,Handmade Crafts,Handicraft,7.35,377,Malaga,Rainy,10% off,2493.86,377,Budget,498.77
+2/1/2019,Souvenirs,Handicraft,4.26,400,Barcelona,Sunny,10% off,1533.6,400,Premium,306.72
+2/1/2019,Souvenirs,Handicraft,8.49,167,Malaga,Cold,10% off,1276.05,167,Budget,255.21
+2/1/2019,Souvenirs,Handicraft,3.78,255,Seville,Rainy,Buy 1 Get 1 Free,963.9,255,Budget,192.78
+2/1/2019,Tomatoes,Vegetable,8.95,340,Barcelona,Cold,None,3043,340,Budget,608.6
+2/1/2019,Tomatoes,Vegetable,7.07,158,Valencia,Snowy,20% off,893.65,158,Regular,178.73
+2/1/2019,Tomatoes,Vegetable,5.4,379,Madrid,Cold,Buy 1 Get 1 Free,2046.6,379,Regular,409.32
+3/1/2019,Apples,Fruit,3.6,121,Barcelona,Cold,None,435.6,121,Budget,87.12
+3/1/2019,Apples,Fruit,6.47,432,Malaga,Snowy,Buy 1 Get 1 Free,2795.04,432,Budget,559.01
+3/1/2019,Apples,Fruit,3.36,235,Valencia,Rainy,10% off,710.64,235,Premium,142.13
+3/1/2019,Oranges,Fruit,5.69,310,Barcelona,Sunny,None,1763.9,310,Budget,352.78
+3/1/2019,Oranges,Fruit,2.43,490,Seville,Rainy,20% off,952.56,490,Regular,190.51
+3/1/2019,Oranges,Fruit,7.28,455,Valencia,Sunny,None,3312.4,455,Budget,662.48
+3/1/2019,Handmade Crafts,Handicraft,4.74,247,Valencia,Snowy,10% off,1053.7,247,Budget,210.74
+3/1/2019,Handmade Crafts,Handicraft,3.64,320,Valencia,Sunny,20% off,931.84,320,Regular,186.37
+3/1/2019,Handmade Crafts,Handicraft,7.63,398,Malaga,Cold,None,3036.74,398,Budget,607.35
+3/1/2019,Souvenirs,Handicraft,6.95,443,Malaga,Sunny,Buy 1 Get 1 Free,3078.85,443,Premium,615.77
+3/1/2019,Souvenirs,Handicraft,5.2,200,Seville,Snowy,20% off,832,200,Premium,166.4
+3/1/2019,Souvenirs,Handicraft,9.61,51,Seville,Cold,20% off,392.09,51,Budget,78.42
+3/1/2019,Tomatoes,Vegetable,7.98,306,Malaga,Sunny,None,2441.88,306,Budget,488.38
+3/1/2019,Tomatoes,Vegetable,6.82,495,Barcelona,Rainy,None,3375.9,495,Premium,675.18
+3/1/2019,Tomatoes,Vegetable,4.68,128,Madrid,Rainy,None,599.04,128,Budget,119.81
+4/1/2019,Apples,Fruit,9.6,326,Valencia,Sunny,20% off,2503.68,326,Premium,500.74
+4/1/2019,Apples,Fruit,4.26,356,Madrid,Sunny,20% off,1213.25,356,Premium,242.65
+4/1/2019,Apples,Fruit,9.4,107,Barcelona,Cold,Buy 1 Get 1 Free,1005.8,107,Regular,201.16
+4/1/2019,Oranges,Fruit,1.99,172,Barcelona,Sunny,Buy 1 Get 1 Free,342.28,172,Budget,68.46
+4/1/2019,Oranges,Fruit,7.72,93,Valencia,Sunny,Buy 1 Get 1 Free,717.96,93,Regular,143.59
+4/1/2019,Oranges,Fruit,6.03,439,Madrid,Rainy,20% off,2117.74,439,Regular,423.55
+4/1/2019,Handmade Crafts,Handicraft,7.11,115,Seville,Rainy,10% off,735.89,115,Budget,147.18
+4/1/2019,Handmade Crafts,Handicraft,5.99,185,Valencia,Snowy,Buy 1 Get 1 Free,1108.15,185,Premium,221.63
+4/1/2019,Handmade Crafts,Handicraft,9.4,158,Madrid,Rainy,10% off,1336.68,158,Premium,267.34
+4/1/2019,Souvenirs,Handicraft,4.15,415,Valencia,Cold,20% off,1377.8,415,Regular,275.56
+4/1/2019,Souvenirs,Handicraft,9.15,274,Barcelona,Snowy,10% off,2256.39,274,Regular,451.28
+4/1/2019,Souvenirs,Handicraft,3.61,111,Valencia,Sunny,20% off,320.57,111,Regular,64.11
+4/1/2019,Tomatoes,Vegetable,1.68,223,Barcelona,Rainy,10% off,337.18,223,Premium,67.44
+4/1/2019,Tomatoes,Vegetable,3.37,351,Malaga,Sunny,20% off,946.3,351,Regular,189.26
+4/1/2019,Tomatoes,Vegetable,6.86,412,Seville,Rainy,20% off,2261.06,412,Premium,452.21
+5/1/2019,Apples,Fruit,9.2,84,Seville,Cold,None,772.8,84,Regular,154.56
+5/1/2019,Apples,Fruit,5.87,86,Seville,Cold,20% off,403.86,86,Premium,80.77
+5/1/2019,Apples,Fruit,5.63,392,Barcelona,Rainy,Buy 1 Get 1 Free,2206.96,392,Premium,441.39
+5/1/2019,Oranges,Fruit,9.45,420,Valencia,Snowy,Buy 1 Get 1 Free,3969,420,Premium,793.8
+5/1/2019,Oranges,Fruit,8.17,174,Valencia,Snowy,10% off,1279.42,174,Premium,255.88
+5/1/2019,Oranges,Fruit,2.3,147,Barcelona,Snowy,Buy 1 Get 1 Free,338.1,147,Premium,67.62
+5/1/2019,Handmade Crafts,Handicraft,5.1,231,Malaga,Snowy,None,1178.1,231,Budget,235.62
+5/1/2019,Handmade Crafts,Handicraft,7.7,492,Valencia,Sunny,20% off,3030.72,492,Regular,606.14
+5/1/2019,Handmade Crafts,Handicraft,4.92,81,Madrid,Cold,20% off,318.82,81,Regular,63.76
+5/1/2019,Souvenirs,Handicraft,8.82,459,Malaga,Rainy,10% off,3643.54,459,Budget,728.71
+5/1/2019,Souvenirs,Handicraft,3.12,148,Seville,Snowy,20% off,369.41,148,Regular,73.88
+5/1/2019,Souvenirs,Handicraft,5.09,121,Malaga,Cold,Buy 1 Get 1 Free,615.89,121,Budget,123.18
+5/1/2019,Tomatoes,Vegetable,3.62,286,Valencia,Sunny,10% off,931.79,286,Premium,186.36
+5/1/2019,Tomatoes,Vegetable,8.37,276,Valencia,Sunny,10% off,2079.11,276,Budget,415.82
+5/1/2019,Tomatoes,Vegetable,7.04,75,Valencia,Sunny,None,528,75,Regular,105.6
+6/1/2019,Apples,Fruit,9.37,117,Madrid,Rainy,Buy 1 Get 1 Free,1096.29,167,Budget,219.26
+6/1/2019,Apples,Fruit,4.95,155,Barcelona,Snowy,Buy 1 Get 1 Free,767.25,205,Premium,153.45
+6/1/2019,Apples,Fruit,8.85,179,Madrid,Sunny,Buy 1 Get 1 Free,1584.15,229,Regular,316.83
+6/1/2019,Oranges,Fruit,4.72,154,Madrid,Snowy,10% off,654.19,204,Premium,130.84
+6/1/2019,Oranges,Fruit,9.38,205,Barcelona,Snowy,Buy 1 Get 1 Free,1922.9,255,Premium,384.58
+6/1/2019,Oranges,Fruit,5.1,216,Madrid,Snowy,10% off,991.44,266,Premium,198.29
+6/1/2019,Handmade Crafts,Handicraft,3.11,129,Seville,Rainy,10% off,361.07,129,Premium,72.21
+6/1/2019,Handmade Crafts,Handicraft,6.42,79,Valencia,Sunny,None,507.18,79,Premium,101.44
+6/1/2019,Handmade Crafts,Handicraft,4.17,432,Malaga,Sunny,20% off,1441.15,432,Premium,288.23
+6/1/2019,Souvenirs,Handicraft,5.55,349,Seville,Rainy,20% off,1549.56,349,Budget,309.91
+6/1/2019,Souvenirs,Handicraft,9.67,79,Seville,Sunny,10% off,687.54,79,Budget,137.51
+6/1/2019,Souvenirs,Handicraft,3.08,485,Valencia,Sunny,20% off,1195.04,485,Budget,239.01
+6/1/2019,Tomatoes,Vegetable,8.83,395,Valencia,Snowy,20% off,2790.28,395,Regular,558.06
+6/1/2019,Tomatoes,Vegetable,9.5,111,Madrid,Rainy,10% off,949.05,111,Budget,189.81
+6/1/2019,Tomatoes,Vegetable,6.55,346,Valencia,Sunny,10% off,2039.67,346,Premium,407.93
+7/1/2019,Apples,Fruit,7.09,284,Madrid,Cold,None,2013.56,334,Budget,402.71
+7/1/2019,Apples,Fruit,3.24,203,Malaga,Cold,20% off,526.18,253,Premium,105.24
+7/1/2019,Apples,Fruit,3.76,192,Barcelona,Rainy,None,721.92,242,Regular,144.38
+7/1/2019,Oranges,Fruit,6.99,413,Barcelona,Snowy,Buy 1 Get 1 Free,2886.87,463,Premium,577.37
+7/1/2019,Oranges,Fruit,9.4,231,Seville,Sunny,10% off,1954.26,281,Budget,390.85
+7/1/2019,Oranges,Fruit,5.4,74,Barcelona,Sunny,None,399.6,124,Premium,79.92
+7/1/2019,Handmade Crafts,Handicraft,6.07,87,Valencia,Cold,20% off,422.47,87,Regular,84.49
+7/1/2019,Handmade Crafts,Handicraft,9.43,117,Barcelona,Sunny,None,1103.31,117,Regular,220.66
+7/1/2019,Handmade Crafts,Handicraft,3.58,500,Malaga,Cold,20% off,1432,500,Regular,286.4
+7/1/2019,Souvenirs,Handicraft,5.22,130,Valencia,Cold,None,678.6,130,Budget,135.72
+7/1/2019,Souvenirs,Handicraft,9.86,363,Valencia,Sunny,Buy 1 Get 1 Free,3579.18,363,Budget,715.84
+7/1/2019,Souvenirs,Handicraft,8.45,391,Malaga,Cold,None,3303.95,391,Premium,660.79
+7/1/2019,Tomatoes,Vegetable,2.38,389,Barcelona,Rainy,20% off,740.66,389,Regular,148.13
+7/1/2019,Tomatoes,Vegetable,2.48,185,Valencia,Sunny,Buy 1 Get 1 Free,458.8,185,Premium,91.76
+7/1/2019,Tomatoes,Vegetable,6.2,430,Barcelona,Cold,Buy 1 Get 1 Free,2666,430,Budget,533.2
+8/1/2019,Apples,Fruit,6.64,214,Valencia,Cold,10% off,1278.86,264,Budget,255.77
+8/1/2019,Apples,Fruit,7.34,174,Malaga,Cold,Buy 1 Get 1 Free,1277.16,224,Budget,255.43
+8/1/2019,Apples,Fruit,5.65,328,Valencia,Sunny,20% off,1482.56,378,Budget,296.51
+8/1/2019,Oranges,Fruit,6.89,117,Madrid,Cold,None,806.13,167,Premium,161.23
+8/1/2019,Oranges,Fruit,1.53,92,Barcelona,Rainy,Buy 1 Get 1 Free,140.76,142,Regular,28.15
+8/1/2019,Oranges,Fruit,9.83,396,Valencia,Rainy,None,3892.68,446,Budget,778.54
+8/1/2019,Handmade Crafts,Handicraft,5.26,429,Valencia,Snowy,10% off,2030.89,429,Regular,406.18
+8/1/2019,Handmade Crafts,Handicraft,1.58,337,Malaga,Sunny,Buy 1 Get 1 Free,532.46,337,Regular,106.49
+8/1/2019,Handmade Crafts,Handicraft,9.18,403,Seville,Sunny,20% off,2959.63,403,Premium,591.93
+8/1/2019,Souvenirs,Handicraft,4.64,477,Seville,Rainy,20% off,1770.62,477,Budget,354.12
+8/1/2019,Souvenirs,Handicraft,2.58,270,Valencia,Cold,Buy 1 Get 1 Free,696.6,270,Regular,139.32
+8/1/2019,Souvenirs,Handicraft,9.14,236,Valencia,Sunny,None,2157.04,236,Regular,431.41
+8/1/2019,Tomatoes,Vegetable,3.29,233,Valencia,Rainy,20% off,613.26,233,Budget,122.65
+8/1/2019,Tomatoes,Vegetable,2.37,391,Madrid,Snowy,Buy 1 Get 1 Free,926.67,391,Budget,185.33
+8/1/2019,Tomatoes,Vegetable,7.87,367,Barcelona,Rainy,None,2888.29,367,Budget,577.66
+9/1/2019,Apples,Fruit,2.88,492,Madrid,Rainy,10% off,1275.26,492,Regular,255.05
+9/1/2019,Apples,Fruit,1.71,261,Madrid,Cold,20% off,357.05,261,Budget,71.41
+9/1/2019,Apples,Fruit,9.41,450,Valencia,Rainy,Buy 1 Get 1 Free,4234.5,450,Budget,846.9
+9/1/2019,Oranges,Fruit,2.85,186,Barcelona,Sunny,20% off,424.08,186,Regular,84.82
+9/1/2019,Oranges,Fruit,8.91,245,Barcelona,Snowy,20% off,1746.36,245,Premium,349.27
+9/1/2019,Oranges,Fruit,3.2,163,Madrid,Snowy,Buy 1 Get 1 Free,521.6,163,Regular,104.32
+9/1/2019,Handmade Crafts,Handicraft,4.09,229,Barcelona,Rainy,10% off,842.95,229,Budget,168.59
+9/1/2019,Handmade Crafts,Handicraft,1.7,164,Seville,Rainy,20% off,223.04,164,Budget,44.61
+9/1/2019,Handmade Crafts,Handicraft,4.29,254,Madrid,Sunny,None,1089.66,254,Premium,217.93
+9/1/2019,Souvenirs,Handicraft,3.87,445,Malaga,Snowy,None,1722.15,445,Premium,344.43
+9/1/2019,Souvenirs,Handicraft,9.84,397,Madrid,Cold,10% off,3515.83,397,Budget,703.17
+9/1/2019,Souvenirs,Handicraft,2.48,64,Seville,Cold,Buy 1 Get 1 Free,158.72,64,Regular,31.74
+9/1/2019,Tomatoes,Vegetable,6.44,141,Madrid,Cold,20% off,726.43,141,Budget,145.29
+9/1/2019,Tomatoes,Vegetable,2.42,69,Seville,Snowy,20% off,133.58,69,Budget,26.72
+9/1/2019,Tomatoes,Vegetable,7.69,226,Barcelona,Cold,None,1737.94,226,Premium,347.59
+10/1/2019,Apples,Fruit,6.65,273,Barcelona,Sunny,20% off,1452.36,273,Regular,290.47
+10/1/2019,Apples,Fruit,9.15,247,Barcelona,Rainy,20% off,1808.04,247,Regular,361.61
+10/1/2019,Apples,Fruit,1.88,180,Valencia,Snowy,20% off,270.72,180,Budget,54.14
+10/1/2019,Oranges,Fruit,5.92,50,Malaga,Rainy,Buy 1 Get 1 Free,296,50,Premium,59.2
+10/1/2019,Oranges,Fruit,5.17,236,Barcelona,Cold,10% off,1098.11,236,Premium,219.62
+10/1/2019,Oranges,Fruit,4.17,369,Seville,Sunny,10% off,1384.86,369,Budget,276.97
+10/1/2019,Handmade Crafts,Handicraft,9.15,418,Malaga,Cold,10% off,3442.23,418,Premium,688.45
+10/1/2019,Handmade Crafts,Handicraft,4.97,391,Malaga,Snowy,20% off,1554.62,391,Budget,310.92
+10/1/2019,Handmade Crafts,Handicraft,4.01,406,Barcelona,Rainy,20% off,1302.45,406,Regular,260.49
+10/1/2019,Souvenirs,Handicraft,5.07,148,Malaga,Snowy,None,750.36,148,Budget,150.07
+10/1/2019,Souvenirs,Handicraft,7.86,396,Malaga,Rainy,20% off,2490.05,396,Budget,498.01
+10/1/2019,Souvenirs,Handicraft,6.34,365,Valencia,Snowy,Buy 1 Get 1 Free,2314.1,365,Regular,462.82
+10/1/2019,Tomatoes,Vegetable,8.59,330,Madrid,Cold,Buy 1 Get 1 Free,2834.7,330,Premium,566.94
+10/1/2019,Tomatoes,Vegetable,3.29,196,Madrid,Cold,Buy 1 Get 1 Free,644.84,196,Regular,128.97
+10/1/2019,Tomatoes,Vegetable,5.26,288,Madrid,Rainy,20% off,1211.9,288,Regular,242.38
+11/1/2019,Apples,Fruit,5.52,311,Malaga,Rainy,20% off,1373.38,311,Budget,274.68
+11/1/2019,Apples,Fruit,2.22,387,Barcelona,Cold,Buy 1 Get 1 Free,859.14,387,Premium,171.83
+11/1/2019,Apples,Fruit,8.46,97,Madrid,Rainy,10% off,738.56,97,Premium,147.71
+11/1/2019,Oranges,Fruit,4.14,394,Seville,Rainy,20% off,1304.93,394,Premium,260.99
+11/1/2019,Oranges,Fruit,1.71,125,Seville,Rainy,10% off,192.38,125,Premium,38.48
+11/1/2019,Oranges,Fruit,6.7,293,Seville,Sunny,20% off,1570.48,293,Regular,314.1
+11/1/2019,Handmade Crafts,Handicraft,5.02,283,Malaga,Rainy,None,1420.66,313,Premium,284.13
+11/1/2019,Handmade Crafts,Handicraft,7.42,417,Malaga,Snowy,10% off,2784.73,447,Budget,556.95
+11/1/2019,Handmade Crafts,Handicraft,3.57,254,Seville,Sunny,10% off,816.1,284,Regular,163.22
+11/1/2019,Souvenirs,Handicraft,8.81,434,Madrid,Sunny,None,3823.54,464,Budget,764.71
+11/1/2019,Souvenirs,Handicraft,5.11,448,Seville,Rainy,20% off,1831.42,478,Budget,366.28
+11/1/2019,Souvenirs,Handicraft,9.64,461,Madrid,Snowy,20% off,3555.23,491,Premium,711.05
+11/1/2019,Tomatoes,Vegetable,6.24,75,Valencia,Sunny,Buy 1 Get 1 Free,468,75,Budget,93.6
+11/1/2019,Tomatoes,Vegetable,2.63,283,Malaga,Snowy,Buy 1 Get 1 Free,744.29,283,Premium,148.86
+11/1/2019,Tomatoes,Vegetable,6.01,391,Seville,Cold,10% off,2114.92,391,Budget,422.98
+12/1/2019,Apples,Fruit,9.08,436,Madrid,Snowy,20% off,3167.1,436,Regular,633.42
+12/1/2019,Apples,Fruit,9.21,475,Seville,Snowy,20% off,3499.8,475,Regular,699.96
+12/1/2019,Apples,Fruit,7.82,131,Valencia,Snowy,Buy 1 Get 1 Free,1024.42,131,Premium,204.88
+12/1/2019,Oranges,Fruit,3.7,280,Seville,Rainy,Buy 1 Get 1 Free,1036,280,Regular,207.2
+12/1/2019,Oranges,Fruit,6.92,480,Seville,Snowy,Buy 1 Get 1 Free,3321.6,480,Budget,664.32
+12/1/2019,Oranges,Fruit,3.53,370,Malaga,Snowy,Buy 1 Get 1 Free,1306.1,370,Budget,261.22
+12/1/2019,Handmade Crafts,Handicraft,7.57,89,Malaga,Rainy,None,673.73,119,Regular,134.75
+12/1/2019,Handmade Crafts,Handicraft,4.35,189,Malaga,Sunny,20% off,657.72,219,Premium,131.54
+12/1/2019,Handmade Crafts,Handicraft,2.78,120,Valencia,Snowy,None,333.6,150,Regular,66.72
+12/1/2019,Souvenirs,Handicraft,2.8,405,Barcelona,Rainy,None,1134,435,Budget,226.8
+12/1/2019,Souvenirs,Handicraft,5.03,82,Valencia,Cold,10% off,371.21,112,Premium,74.24
+12/1/2019,Souvenirs,Handicraft,5.46,327,Malaga,Sunny,10% off,1606.88,357,Regular,321.38
+12/1/2019,Tomatoes,Vegetable,8.58,155,Madrid,Snowy,20% off,1063.92,155,Premium,212.78
+12/1/2019,Tomatoes,Vegetable,6.46,444,Valencia,Sunny,10% off,2581.42,444,Regular,516.28
+12/1/2019,Tomatoes,Vegetable,8.99,488,Barcelona,Snowy,Buy 1 Get 1 Free,4387.12,488,Premium,877.42
+1/1/2020,Apples,Fruit,1.55,294,Malaga,Cold,Buy 1 Get 1 Free,455.7,294,Regular,91.14
+1/1/2020,Apples,Fruit,7.9,202,Madrid,Snowy,Buy 1 Get 1 Free,1595.8,202,Regular,319.16
+1/1/2020,Apples,Fruit,7.85,325,Malaga,Rainy,Buy 1 Get 1 Free,2551.25,325,Premium,510.25
+1/1/2020,Oranges,Fruit,3.37,299,Malaga,Snowy,Buy 1 Get 1 Free,1007.63,299,Budget,201.53
+1/1/2020,Oranges,Fruit,1.75,298,Seville,Cold,20% off,417.2,298,Budget,83.44
+1/1/2020,Oranges,Fruit,7.27,392,Madrid,Snowy,20% off,2279.87,392,Regular,455.97
+1/1/2020,Handmade Crafts,Handicraft,2.9,420,Seville,Snowy,Buy 1 Get 1 Free,1218,420,Budget,243.6
+1/1/2020,Handmade Crafts,Handicraft,9.84,115,Seville,Sunny,20% off,905.28,115,Premium,181.06
+1/1/2020,Handmade Crafts,Handicraft,6.53,251,Barcelona,Sunny,10% off,1475.13,251,Budget,295.03
+1/1/2020,Souvenirs,Handicraft,6.96,92,Seville,Rainy,None,640.32,92,Budget,128.06
+1/1/2020,Souvenirs,Handicraft,5.42,493,Seville,Sunny,10% off,2404.85,493,Premium,480.97
+1/1/2020,Souvenirs,Handicraft,4.72,183,Barcelona,Rainy,None,863.76,183,Budget,172.75
+1/1/2020,Tomatoes,Vegetable,4.28,282,Seville,Snowy,20% off,965.57,282,Budget,193.11
+1/1/2020,Tomatoes,Vegetable,7.89,192,Valencia,Snowy,10% off,1363.39,192,Regular,272.68
+1/1/2020,Tomatoes,Vegetable,8.6,179,Barcelona,Snowy,10% off,1385.46,179,Premium,277.09
+2/1/2020,Apples,Fruit,7.87,59,Valencia,Sunny,20% off,371.46,59,Premium,74.29
+2/1/2020,Apples,Fruit,3.41,229,Barcelona,Sunny,None,780.89,229,Premium,156.18
+2/1/2020,Apples,Fruit,9.64,449,Seville,Sunny,None,4328.36,449,Premium,865.67
+2/1/2020,Oranges,Fruit,1.76,436,Seville,Rainy,10% off,690.62,436,Premium,138.12
+2/1/2020,Oranges,Fruit,8.63,152,Valencia,Rainy,20% off,1049.41,152,Budget,209.88
+2/1/2020,Oranges,Fruit,2.57,172,Seville,Sunny,10% off,397.84,172,Regular,79.57
+2/1/2020,Handmade Crafts,Handicraft,9.56,338,Barcelona,Snowy,10% off,2908.15,338,Budget,581.63
+2/1/2020,Handmade Crafts,Handicraft,3.68,408,Seville,Cold,20% off,1201.15,408,Budget,240.23
+2/1/2020,Handmade Crafts,Handicraft,6.65,135,Madrid,Sunny,Buy 1 Get 1 Free,897.75,135,Budget,179.55
+2/1/2020,Souvenirs,Handicraft,8.46,448,Barcelona,Cold,Buy 1 Get 1 Free,3790.08,448,Budget,758.02
+2/1/2020,Souvenirs,Handicraft,6.42,105,Madrid,Cold,10% off,606.69,105,Premium,121.34
+2/1/2020,Souvenirs,Handicraft,7.26,344,Barcelona,Snowy,None,2497.44,344,Regular,499.49
+2/1/2020,Tomatoes,Vegetable,9.5,253,Valencia,Rainy,None,2403.5,253,Premium,480.7
+2/1/2020,Tomatoes,Vegetable,6.53,88,Valencia,Rainy,Buy 1 Get 1 Free,574.64,88,Premium,114.93
+2/1/2020,Tomatoes,Vegetable,7.43,102,Malaga,Cold,20% off,606.29,102,Regular,121.26
+3/1/2020,Apples,Fruit,7.32,485,Barcelona,Sunny,10% off,3195.18,485,Regular,639.04
+3/1/2020,Apples,Fruit,9.86,457,Madrid,Sunny,10% off,4055.42,457,Premium,811.08
+3/1/2020,Apples,Fruit,6.03,227,Barcelona,Cold,None,1368.81,227,Premium,273.76
+3/1/2020,Oranges,Fruit,5.8,85,Madrid,Cold,Buy 1 Get 1 Free,493,85,Budget,98.6
+3/1/2020,Oranges,Fruit,8.72,56,Barcelona,Snowy,Buy 1 Get 1 Free,488.32,56,Regular,97.66
+3/1/2020,Oranges,Fruit,5.18,104,Madrid,Cold,Buy 1 Get 1 Free,538.72,104,Premium,107.74
+3/1/2020,Handmade Crafts,Handicraft,9.08,375,Malaga,Snowy,Buy 1 Get 1 Free,3405,375,Premium,681
+3/1/2020,Handmade Crafts,Handicraft,2.8,412,Seville,Rainy,10% off,1038.24,412,Regular,207.65
+3/1/2020,Handmade Crafts,Handicraft,5.93,425,Madrid,Cold,None,2520.25,425,Premium,504.05
+3/1/2020,Souvenirs,Handicraft,8.37,365,Malaga,Snowy,10% off,2749.54,365,Premium,549.91
+3/1/2020,Souvenirs,Handicraft,5.2,288,Barcelona,Cold,10% off,1347.84,288,Budget,269.57
+3/1/2020,Souvenirs,Handicraft,8.74,215,Seville,Sunny,Buy 1 Get 1 Free,1879.1,215,Budget,375.82
+3/1/2020,Tomatoes,Vegetable,8.99,192,Barcelona,Rainy,10% off,1553.47,192,Budget,310.69
+3/1/2020,Tomatoes,Vegetable,5.45,434,Seville,Snowy,10% off,2128.77,434,Regular,425.75
+3/1/2020,Tomatoes,Vegetable,1.74,222,Valencia,Cold,20% off,309.02,222,Regular,61.8
+4/1/2020,Apples,Fruit,5.64,143,Seville,Cold,20% off,645.22,143,Regular,129.04
+4/1/2020,Apples,Fruit,3.7,458,Barcelona,Cold,20% off,1355.68,458,Regular,271.14
+4/1/2020,Apples,Fruit,6.57,500,Madrid,Cold,Buy 1 Get 1 Free,3285,500,Budget,657
+4/1/2020,Oranges,Fruit,1.59,334,Seville,Rainy,None,531.06,334,Premium,106.21
+4/1/2020,Oranges,Fruit,3.55,93,Malaga,Snowy,Buy 1 Get 1 Free,330.15,93,Regular,66.03
+4/1/2020,Oranges,Fruit,6.22,300,Seville,Rainy,Buy 1 Get 1 Free,1866,300,Premium,373.2
+4/1/2020,Handmade Crafts,Handicraft,5.55,403,Malaga,Snowy,10% off,2012.99,403,Premium,402.6
+4/1/2020,Handmade Crafts,Handicraft,8.24,279,Barcelona,Sunny,20% off,1839.17,279,Regular,367.83
+4/1/2020,Handmade Crafts,Handicraft,3.38,200,Malaga,Rainy,Buy 1 Get 1 Free,676,200,Budget,135.2
+4/1/2020,Souvenirs,Handicraft,7.14,206,Valencia,Cold,Buy 1 Get 1 Free,1470.84,206,Regular,294.17
+4/1/2020,Souvenirs,Handicraft,6.2,292,Malaga,Cold,20% off,1448.32,292,Budget,289.66
+4/1/2020,Souvenirs,Handicraft,9.97,267,Valencia,Cold,20% off,2129.59,267,Premium,425.92
+4/1/2020,Tomatoes,Vegetable,7.47,230,Valencia,Cold,10% off,1546.29,230,Premium,309.26
+4/1/2020,Tomatoes,Vegetable,3.64,206,Seville,Sunny,20% off,599.87,206,Premium,119.97
+4/1/2020,Tomatoes,Vegetable,3.14,419,Seville,Sunny,20% off,1052.53,419,Regular,210.51
+5/1/2020,Apples,Fruit,6.05,430,Barcelona,Rainy,Buy 1 Get 1 Free,2601.5,430,Premium,520.3
+5/1/2020,Apples,Fruit,3.34,148,Valencia,Snowy,10% off,444.89,148,Regular,88.98
+5/1/2020,Apples,Fruit,7.66,191,Madrid,Cold,None,1463.06,191,Regular,292.61
+5/1/2020,Oranges,Fruit,8.58,101,Seville,Cold,20% off,693.26,101,Premium,138.65
+5/1/2020,Oranges,Fruit,4.57,166,Seville,Cold,Buy 1 Get 1 Free,758.62,166,Budget,151.72
+5/1/2020,Oranges,Fruit,7.52,57,Madrid,Rainy,10% off,385.78,57,Regular,77.16
+5/1/2020,Handmade Crafts,Handicraft,1.89,190,Seville,Sunny,20% off,287.28,190,Budget,57.46
+5/1/2020,Handmade Crafts,Handicraft,3.98,333,Seville,Rainy,None,1325.34,333,Budget,265.07
+5/1/2020,Handmade Crafts,Handicraft,8.88,376,Valencia,Snowy,10% off,3004.99,376,Budget,601
+5/1/2020,Souvenirs,Handicraft,8.92,102,Malaga,Cold,10% off,818.86,102,Budget,163.77
+5/1/2020,Souvenirs,Handicraft,5.57,290,Seville,Cold,20% off,1292.24,290,Regular,258.45
+5/1/2020,Souvenirs,Handicraft,9.71,144,Valencia,Cold,20% off,1118.59,144,Regular,223.72
+5/1/2020,Tomatoes,Vegetable,5.56,491,Seville,Sunny,10% off,2456.96,491,Premium,491.39
+5/1/2020,Tomatoes,Vegetable,5.68,255,Barcelona,Sunny,20% off,1158.72,255,Regular,231.74
+5/1/2020,Tomatoes,Vegetable,2.77,127,Seville,Cold,20% off,281.43,127,Budget,56.29
+6/1/2020,Apples,Fruit,9.95,113,Seville,Sunny,20% off,899.48,163,Budget,179.9
+6/1/2020,Apples,Fruit,8,355,Barcelona,Rainy,20% off,2272,405,Regular,454.4
+6/1/2020,Apples,Fruit,5.94,467,Malaga,Snowy,10% off,2496.58,517,Budget,499.32
+6/1/2020,Oranges,Fruit,4.03,296,Seville,Snowy,Buy 1 Get 1 Free,1192.88,346,Regular,238.58
+6/1/2020,Oranges,Fruit,6.33,226,Barcelona,Sunny,Buy 1 Get 1 Free,1430.58,276,Budget,286.12
+6/1/2020,Oranges,Fruit,9.66,382,Barcelona,Sunny,Buy 1 Get 1 Free,3690.12,432,Premium,738.02
+6/1/2020,Handmade Crafts,Handicraft,3.27,440,Madrid,Rainy,10% off,1294.92,440,Premium,258.98
+6/1/2020,Handmade Crafts,Handicraft,7.11,185,Barcelona,Rainy,20% off,1052.28,185,Premium,210.46
+6/1/2020,Handmade Crafts,Handicraft,2.98,172,Madrid,Sunny,Buy 1 Get 1 Free,512.56,172,Budget,102.51
+6/1/2020,Souvenirs,Handicraft,1.52,130,Seville,Snowy,None,197.6,130,Budget,39.52
+6/1/2020,Souvenirs,Handicraft,6.55,402,Seville,Cold,None,2633.1,402,Budget,526.62
+6/1/2020,Souvenirs,Handicraft,3.47,66,Madrid,Cold,None,229.02,66,Budget,45.8
+6/1/2020,Tomatoes,Vegetable,8.81,409,Valencia,Sunny,20% off,2882.63,409,Budget,576.53
+6/1/2020,Tomatoes,Vegetable,3.48,401,Barcelona,Cold,10% off,1255.93,401,Regular,251.19
+6/1/2020,Tomatoes,Vegetable,8.23,453,Barcelona,Rainy,10% off,3355.37,453,Premium,671.07
+7/1/2020,Apples,Fruit,2.48,287,Valencia,Rainy,10% off,640.58,337,Budget,128.12
+7/1/2020,Apples,Fruit,2.77,401,Barcelona,Cold,None,1110.77,451,Premium,222.15
+7/1/2020,Apples,Fruit,2.71,493,Malaga,Sunny,20% off,1068.82,543,Premium,213.76
+7/1/2020,Oranges,Fruit,8.24,154,Barcelona,Cold,10% off,1142.06,204,Regular,228.41
+7/1/2020,Oranges,Fruit,2.56,294,Malaga,Cold,Buy 1 Get 1 Free,752.64,344,Budget,150.53
+7/1/2020,Oranges,Fruit,4.92,428,Barcelona,Cold,10% off,1895.18,478,Premium,379.04
+7/1/2020,Handmade Crafts,Handicraft,6.09,306,Valencia,Snowy,None,1863.54,306,Premium,372.71
+7/1/2020,Handmade Crafts,Handicraft,6.58,91,Madrid,Snowy,10% off,538.9,91,Premium,107.78
+7/1/2020,Handmade Crafts,Handicraft,4.24,426,Madrid,Cold,None,1806.24,426,Budget,361.25
+7/1/2020,Souvenirs,Handicraft,2.28,63,Barcelona,Sunny,None,143.64,63,Budget,28.73
+7/1/2020,Souvenirs,Handicraft,7.21,441,Seville,Cold,None,3179.61,441,Regular,635.92
+7/1/2020,Souvenirs,Handicraft,1.84,345,Seville,Rainy,None,634.8,345,Budget,126.96
+7/1/2020,Tomatoes,Vegetable,5.91,290,Valencia,Snowy,Buy 1 Get 1 Free,1713.9,290,Regular,342.78
+7/1/2020,Tomatoes,Vegetable,3.04,192,Barcelona,Snowy,20% off,466.94,192,Regular,93.39
+7/1/2020,Tomatoes,Vegetable,8.42,375,Valencia,Sunny,Buy 1 Get 1 Free,3157.5,375,Regular,631.5
+8/1/2020,Apples,Fruit,4.46,310,Valencia,Cold,20% off,1106.08,360,Premium,221.22
+8/1/2020,Apples,Fruit,7.2,234,Seville,Rainy,Buy 1 Get 1 Free,1684.8,284,Premium,336.96
+8/1/2020,Apples,Fruit,5,238,Valencia,Snowy,Buy 1 Get 1 Free,1190,288,Budget,238
+8/1/2020,Oranges,Fruit,7.13,217,Barcelona,Snowy,10% off,1392.49,267,Budget,278.5
+8/1/2020,Oranges,Fruit,7.96,486,Seville,Sunny,10% off,3481.7,536,Regular,696.34
+8/1/2020,Oranges,Fruit,2.25,302,Madrid,Cold,Buy 1 Get 1 Free,679.5,352,Premium,135.9
+8/1/2020,Handmade Crafts,Handicraft,2.49,215,Malaga,Snowy,10% off,481.82,215,Regular,96.36
+8/1/2020,Handmade Crafts,Handicraft,5.87,492,Madrid,Sunny,10% off,2599.24,492,Regular,519.85
+8/1/2020,Handmade Crafts,Handicraft,8.89,386,Madrid,Snowy,Buy 1 Get 1 Free,3431.54,386,Budget,686.31
+8/1/2020,Souvenirs,Handicraft,1.96,261,Madrid,Cold,10% off,460.4,261,Regular,92.08
+8/1/2020,Souvenirs,Handicraft,7.93,368,Malaga,Snowy,20% off,2334.59,368,Budget,466.92
+8/1/2020,Souvenirs,Handicraft,1.94,439,Valencia,Cold,Buy 1 Get 1 Free,851.66,439,Premium,170.33
+8/1/2020,Tomatoes,Vegetable,2.61,331,Barcelona,Cold,Buy 1 Get 1 Free,863.91,331,Regular,172.78
+8/1/2020,Tomatoes,Vegetable,8.99,274,Malaga,Snowy,Buy 1 Get 1 Free,2463.26,274,Premium,492.65
+8/1/2020,Tomatoes,Vegetable,1.75,112,Seville,Rainy,Buy 1 Get 1 Free,196,112,Budget,39.2
+9/1/2020,Apples,Fruit,2.85,413,Malaga,Sunny,None,1177.05,413,Regular,235.41
+9/1/2020,Apples,Fruit,4.97,332,Valencia,Rainy,10% off,1485.04,332,Premium,297.01
+9/1/2020,Apples,Fruit,9.26,480,Madrid,Snowy,10% off,4000.32,480,Budget,800.06
+9/1/2020,Oranges,Fruit,7.01,110,Madrid,Rainy,10% off,693.99,110,Budget,138.8
+9/1/2020,Oranges,Fruit,9.43,305,Seville,Cold,10% off,2588.54,305,Premium,517.71
+9/1/2020,Oranges,Fruit,7.5,310,Malaga,Snowy,Buy 1 Get 1 Free,2325,310,Regular,465
+9/1/2020,Handmade Crafts,Handicraft,5.6,477,Valencia,Snowy,10% off,2404.08,477,Premium,480.82
+9/1/2020,Handmade Crafts,Handicraft,5.38,174,Valencia,Rainy,Buy 1 Get 1 Free,936.12,174,Regular,187.22
+9/1/2020,Handmade Crafts,Handicraft,3.12,246,Barcelona,Rainy,10% off,690.77,246,Budget,138.15
+9/1/2020,Souvenirs,Handicraft,2.09,492,Seville,Snowy,20% off,822.62,492,Premium,164.52
+9/1/2020,Souvenirs,Handicraft,9.44,224,Malaga,Cold,Buy 1 Get 1 Free,2114.56,224,Regular,422.91
+9/1/2020,Souvenirs,Handicraft,1.52,470,Malaga,Cold,None,714.4,470,Premium,142.88
+9/1/2020,Tomatoes,Vegetable,6.49,478,Barcelona,Snowy,None,3102.22,478,Premium,620.44
+9/1/2020,Tomatoes,Vegetable,2.76,493,Seville,Snowy,20% off,1088.54,493,Budget,217.71
+9/1/2020,Tomatoes,Vegetable,4.33,226,Valencia,Snowy,10% off,880.72,226,Budget,176.14
+10/1/2020,Apples,Fruit,9.43,283,Barcelona,Rainy,10% off,2401.82,283,Budget,480.36
+10/1/2020,Apples,Fruit,3.53,407,Malaga,Snowy,10% off,1293.04,407,Budget,258.61
+10/1/2020,Apples,Fruit,8.78,169,Madrid,Snowy,10% off,1335.44,169,Regular,267.09
+10/1/2020,Oranges,Fruit,4.2,72,Barcelona,Snowy,None,302.4,72,Regular,60.48
+10/1/2020,Oranges,Fruit,9.26,411,Seville,Snowy,20% off,3044.69,411,Regular,608.94
+10/1/2020,Oranges,Fruit,9.9,247,Barcelona,Rainy,10% off,2200.77,247,Budget,440.15
+10/1/2020,Handmade Crafts,Handicraft,9.7,303,Malaga,Rainy,20% off,2351.28,303,Budget,470.26
+10/1/2020,Handmade Crafts,Handicraft,9.71,307,Barcelona,Cold,None,2980.97,307,Regular,596.19
+10/1/2020,Handmade Crafts,Handicraft,2.35,495,Madrid,Snowy,Buy 1 Get 1 Free,1163.25,495,Premium,232.65
+10/1/2020,Souvenirs,Handicraft,5.97,101,Valencia,Snowy,Buy 1 Get 1 Free,602.97,101,Premium,120.59
+10/1/2020,Souvenirs,Handicraft,7.64,57,Barcelona,Snowy,10% off,391.93,57,Budget,78.39
+10/1/2020,Souvenirs,Handicraft,7.07,495,Seville,Rainy,10% off,3149.68,495,Budget,629.94
+10/1/2020,Tomatoes,Vegetable,5.49,88,Seville,Cold,None,483.12,88,Regular,96.62
+10/1/2020,Tomatoes,Vegetable,6.8,223,Malaga,Snowy,Buy 1 Get 1 Free,1516.4,223,Regular,303.28
+10/1/2020,Tomatoes,Vegetable,2.18,382,Seville,Cold,Buy 1 Get 1 Free,832.76,382,Premium,166.55
+11/1/2020,Apples,Fruit,7.23,486,Madrid,Snowy,10% off,3162.4,486,Budget,632.48
+11/1/2020,Apples,Fruit,6.83,212,Valencia,Snowy,None,1447.96,212,Budget,289.59
+11/1/2020,Apples,Fruit,6.1,496,Valencia,Sunny,Buy 1 Get 1 Free,3025.6,496,Premium,605.12
+11/1/2020,Oranges,Fruit,6.86,170,Malaga,Cold,10% off,1049.58,170,Budget,209.92
+11/1/2020,Oranges,Fruit,7.85,166,Madrid,Snowy,Buy 1 Get 1 Free,1303.1,166,Budget,260.62
+11/1/2020,Oranges,Fruit,7.96,100,Barcelona,Sunny,10% off,716.4,100,Regular,143.28
+11/1/2020,Handmade Crafts,Handicraft,2.91,277,Malaga,Cold,Buy 1 Get 1 Free,806.07,307,Budget,161.21
+11/1/2020,Handmade Crafts,Handicraft,1.89,64,Valencia,Sunny,None,120.96,94,Regular,24.19
+11/1/2020,Handmade Crafts,Handicraft,4.55,200,Madrid,Snowy,10% off,819,230,Premium,163.8
+11/1/2020,Souvenirs,Handicraft,3.58,124,Malaga,Snowy,10% off,399.53,154,Budget,79.91
+11/1/2020,Souvenirs,Handicraft,7.3,339,Valencia,Rainy,10% off,2227.23,369,Premium,445.45
+11/1/2020,Souvenirs,Handicraft,2.99,137,Valencia,Snowy,None,409.63,167,Premium,81.93
+11/1/2020,Tomatoes,Vegetable,7.31,367,Malaga,Snowy,10% off,2414.49,367,Regular,482.9
+11/1/2020,Tomatoes,Vegetable,2.72,348,Malaga,Snowy,None,946.56,348,Regular,189.31
+11/1/2020,Tomatoes,Vegetable,3.66,376,Madrid,Cold,20% off,1100.93,376,Budget,220.19
+12/1/2020,Apples,Fruit,1.58,391,Valencia,Snowy,10% off,556,391,Premium,111.2
+12/1/2020,Apples,Fruit,7.26,197,Malaga,Rainy,10% off,1287.2,197,Premium,257.44
+12/1/2020,Apples,Fruit,5.25,87,Valencia,Cold,20% off,365.4,87,Premium,73.08
+12/1/2020,Oranges,Fruit,4.04,350,Madrid,Snowy,20% off,1131.2,350,Premium,226.24
+12/1/2020,Oranges,Fruit,3.63,403,Seville,Cold,None,1462.89,403,Premium,292.58
+12/1/2020,Oranges,Fruit,9.99,151,Madrid,Snowy,None,1508.49,151,Premium,301.7
+12/1/2020,Handmade Crafts,Handicraft,3.52,104,Seville,Cold,Buy 1 Get 1 Free,366.08,134,Budget,73.22
+12/1/2020,Handmade Crafts,Handicraft,4.01,344,Valencia,Cold,10% off,1241.5,374,Regular,248.3
+12/1/2020,Handmade Crafts,Handicraft,9.81,61,Valencia,Snowy,None,598.41,91,Premium,119.68
+12/1/2020,Souvenirs,Handicraft,1.57,190,Madrid,Sunny,20% off,238.64,220,Regular,47.73
+12/1/2020,Souvenirs,Handicraft,7.83,360,Madrid,Cold,Buy 1 Get 1 Free,2818.8,390,Regular,563.76
+12/1/2020,Souvenirs,Handicraft,8.29,447,Malaga,Cold,20% off,2964.5,477,Budget,592.9
+12/1/2020,Tomatoes,Vegetable,6.91,162,Valencia,Cold,Buy 1 Get 1 Free,1119.42,162,Regular,223.88
+12/1/2020,Tomatoes,Vegetable,7.92,397,Malaga,Rainy,None,3144.24,397,Premium,628.85
+12/1/2020,Tomatoes,Vegetable,2.33,371,Madrid,Sunny,None,864.43,371,Regular,172.89
+1/1/2021,Apples,Fruit,8.2,208,Malaga,Sunny,Buy 1 Get 1 Free,1705.6,208,Premium,341.12
+1/1/2021,Apples,Fruit,4.6,346,Malaga,Rainy,20% off,1273.28,346,Premium,254.66
+1/1/2021,Apples,Fruit,9.23,96,Seville,Cold,10% off,797.47,96,Regular,159.49
+1/1/2021,Oranges,Fruit,5.03,432,Barcelona,Rainy,Buy 1 Get 1 Free,2172.96,432,Premium,434.59
+1/1/2021,Oranges,Fruit,8.19,117,Madrid,Cold,20% off,766.58,117,Budget,153.32
+1/1/2021,Oranges,Fruit,5.77,321,Madrid,Cold,Buy 1 Get 1 Free,1852.17,321,Regular,370.43
+1/1/2021,Handmade Crafts,Handicraft,2.9,475,Madrid,Snowy,Buy 1 Get 1 Free,1377.5,475,Regular,275.5
+1/1/2021,Handmade Crafts,Handicraft,4.01,462,Barcelona,Cold,None,1852.62,462,Budget,370.52
+1/1/2021,Handmade Crafts,Handicraft,2.48,461,Seville,Sunny,10% off,1028.95,461,Regular,205.79
+1/1/2021,Souvenirs,Handicraft,7.91,122,Seville,Rainy,None,965.02,122,Premium,193
+1/1/2021,Souvenirs,Handicraft,7.25,490,Madrid,Snowy,None,3552.5,490,Regular,710.5
+1/1/2021,Souvenirs,Handicraft,8.34,483,Valencia,Cold,Buy 1 Get 1 Free,4028.22,483,Budget,805.64
+1/1/2021,Tomatoes,Vegetable,8.22,96,Madrid,Sunny,10% off,710.21,96,Premium,142.04
+1/1/2021,Tomatoes,Vegetable,6.06,185,Seville,Snowy,10% off,1008.99,185,Budget,201.8
+1/1/2021,Tomatoes,Vegetable,7.22,238,Barcelona,Cold,10% off,1546.52,238,Regular,309.3
+2/1/2021,Apples,Fruit,4.74,349,Barcelona,Cold,20% off,1323.41,349,Budget,264.68
+2/1/2021,Apples,Fruit,7.24,105,Seville,Snowy,20% off,608.16,105,Budget,121.63
+2/1/2021,Apples,Fruit,6.77,62,Barcelona,Cold,None,419.74,62,Regular,83.95
+2/1/2021,Oranges,Fruit,3.38,362,Madrid,Sunny,Buy 1 Get 1 Free,1223.56,362,Budget,244.71
+2/1/2021,Oranges,Fruit,8.5,375,Malaga,Cold,20% off,2550,375,Regular,510
+2/1/2021,Oranges,Fruit,4.97,382,Malaga,Rainy,Buy 1 Get 1 Free,1898.54,382,Budget,379.71
+2/1/2021,Handmade Crafts,Handicraft,9.54,73,Barcelona,Cold,None,696.42,73,Budget,139.28
+2/1/2021,Handmade Crafts,Handicraft,2.49,302,Seville,Rainy,20% off,601.58,302,Regular,120.32
+2/1/2021,Handmade Crafts,Handicraft,2.65,325,Valencia,Snowy,None,861.25,325,Regular,172.25
+2/1/2021,Souvenirs,Handicraft,7.2,239,Malaga,Snowy,Buy 1 Get 1 Free,1720.8,239,Budget,344.16
+2/1/2021,Souvenirs,Handicraft,7.81,350,Barcelona,Rainy,None,2733.5,350,Premium,546.7
+2/1/2021,Souvenirs,Handicraft,7.07,262,Madrid,Snowy,20% off,1481.87,262,Premium,296.37
+2/1/2021,Tomatoes,Vegetable,4.97,365,Madrid,Cold,Buy 1 Get 1 Free,1814.05,365,Budget,362.81
+2/1/2021,Tomatoes,Vegetable,7.37,66,Barcelona,Rainy,10% off,437.78,66,Budget,87.56
+2/1/2021,Tomatoes,Vegetable,5.28,277,Malaga,Rainy,20% off,1170.05,277,Budget,234.01
+3/1/2021,Apples,Fruit,4.58,487,Seville,Cold,20% off,1784.37,487,Premium,356.87
+3/1/2021,Apples,Fruit,9.16,328,Valencia,Cold,None,3004.48,328,Budget,600.9
+3/1/2021,Apples,Fruit,4.88,81,Madrid,Rainy,10% off,355.75,81,Premium,71.15
+3/1/2021,Oranges,Fruit,9.57,112,Malaga,Snowy,Buy 1 Get 1 Free,1071.84,112,Regular,214.37
+3/1/2021,Oranges,Fruit,7.13,96,Madrid,Sunny,10% off,616.03,96,Budget,123.21
+3/1/2021,Oranges,Fruit,8.19,75,Seville,Rainy,Buy 1 Get 1 Free,614.25,75,Premium,122.85
+3/1/2021,Handmade Crafts,Handicraft,8.19,114,Madrid,Rainy,20% off,746.93,114,Regular,149.39
+3/1/2021,Handmade Crafts,Handicraft,8.55,85,Seville,Rainy,Buy 1 Get 1 Free,726.75,85,Regular,145.35
+3/1/2021,Handmade Crafts,Handicraft,3.34,350,Valencia,Rainy,20% off,935.2,350,Premium,187.04
+3/1/2021,Souvenirs,Handicraft,8.08,218,Barcelona,Sunny,20% off,1409.15,218,Budget,281.83
+3/1/2021,Souvenirs,Handicraft,8.8,191,Barcelona,Rainy,Buy 1 Get 1 Free,1680.8,191,Budget,336.16
+3/1/2021,Souvenirs,Handicraft,6.09,116,Seville,Rainy,10% off,635.8,116,Budget,127.16
+3/1/2021,Tomatoes,Vegetable,7.12,106,Valencia,Sunny,10% off,679.25,106,Regular,135.85
+3/1/2021,Tomatoes,Vegetable,1.63,117,Seville,Rainy,Buy 1 Get 1 Free,190.71,117,Budget,38.14
+3/1/2021,Tomatoes,Vegetable,4.25,351,Valencia,Rainy,None,1491.75,351,Budget,298.35
+4/1/2021,Apples,Fruit,1.95,185,Malaga,Snowy,None,360.75,185,Premium,72.15
+4/1/2021,Apples,Fruit,2.47,319,Madrid,Sunny,Buy 1 Get 1 Free,787.93,319,Premium,157.59
+4/1/2021,Apples,Fruit,5.31,293,Madrid,Cold,20% off,1244.66,293,Regular,248.93
+4/1/2021,Oranges,Fruit,6.55,312,Seville,Snowy,10% off,1839.24,312,Budget,367.85
+4/1/2021,Oranges,Fruit,3.38,307,Valencia,Sunny,None,1037.66,307,Budget,207.53
+4/1/2021,Oranges,Fruit,8.16,422,Barcelona,Cold,None,3443.52,422,Budget,688.7
+4/1/2021,Handmade Crafts,Handicraft,6.97,284,Malaga,Sunny,None,1979.48,284,Budget,395.9
+4/1/2021,Handmade Crafts,Handicraft,9.99,81,Madrid,Snowy,20% off,647.35,81,Regular,129.47
+4/1/2021,Handmade Crafts,Handicraft,7.33,268,Madrid,Snowy,Buy 1 Get 1 Free,1964.44,268,Premium,392.89
+4/1/2021,Souvenirs,Handicraft,9.23,414,Malaga,Sunny,None,3821.22,414,Budget,764.24
+4/1/2021,Souvenirs,Handicraft,4.24,91,Valencia,Rainy,Buy 1 Get 1 Free,385.84,91,Budget,77.17
+4/1/2021,Souvenirs,Handicraft,2.57,83,Barcelona,Cold,Buy 1 Get 1 Free,213.31,83,Budget,42.66
+4/1/2021,Tomatoes,Vegetable,9.95,245,Seville,Cold,None,2437.75,245,Regular,487.55
+4/1/2021,Tomatoes,Vegetable,5.8,282,Barcelona,Snowy,Buy 1 Get 1 Free,1635.6,282,Regular,327.12
+4/1/2021,Tomatoes,Vegetable,8.24,100,Valencia,Sunny,10% off,741.6,100,Budget,148.32
+5/1/2021,Apples,Fruit,7.07,486,Madrid,Rainy,10% off,3092.42,486,Premium,618.48
+5/1/2021,Apples,Fruit,5.34,270,Valencia,Rainy,None,1441.8,270,Budget,288.36
+5/1/2021,Apples,Fruit,4.38,261,Malaga,Snowy,None,1143.18,261,Budget,228.64
+5/1/2021,Oranges,Fruit,5.04,254,Valencia,Sunny,20% off,1024.13,254,Budget,204.83
+5/1/2021,Oranges,Fruit,5.13,210,Seville,Cold,None,1077.3,210,Regular,215.46
+5/1/2021,Oranges,Fruit,9.61,241,Malaga,Snowy,Buy 1 Get 1 Free,2316.01,241,Premium,463.2
+5/1/2021,Handmade Crafts,Handicraft,2.28,84,Barcelona,Sunny,Buy 1 Get 1 Free,191.52,84,Budget,38.3
+5/1/2021,Handmade Crafts,Handicraft,5.17,97,Madrid,Cold,None,501.49,97,Budget,100.3
+5/1/2021,Handmade Crafts,Handicraft,2.61,465,Malaga,Sunny,None,1213.65,465,Budget,242.73
+5/1/2021,Souvenirs,Handicraft,9.63,350,Seville,Cold,20% off,2696.4,350,Premium,539.28
+5/1/2021,Souvenirs,Handicraft,2.54,393,Valencia,Cold,10% off,898.4,393,Regular,179.68
+5/1/2021,Souvenirs,Handicraft,7.16,497,Valencia,Snowy,10% off,3202.67,497,Premium,640.53
+5/1/2021,Tomatoes,Vegetable,9.28,494,Malaga,Sunny,10% off,4125.89,494,Premium,825.18
+5/1/2021,Tomatoes,Vegetable,6.6,197,Valencia,Cold,20% off,1040.16,197,Budget,208.03
+5/1/2021,Tomatoes,Vegetable,6.41,103,Seville,Rainy,Buy 1 Get 1 Free,660.23,103,Budget,132.05
+6/1/2021,Apples,Fruit,7.08,149,Malaga,Rainy,10% off,949.43,199,Budget,189.89
+6/1/2021,Apples,Fruit,2.42,503,Seville,Cold,None,1217.26,553,Regular,243.45
+6/1/2021,Apples,Fruit,7.98,128,Barcelona,Rainy,Buy 1 Get 1 Free,1021.44,178,Regular,204.29
+6/1/2021,Oranges,Fruit,5.15,483,Malaga,Sunny,20% off,1989.96,533,Premium,397.99
+6/1/2021,Oranges,Fruit,9.4,381,Seville,Cold,Buy 1 Get 1 Free,3581.4,431,Budget,716.28
+6/1/2021,Oranges,Fruit,3.03,84,Valencia,Cold,20% off,203.62,134,Budget,40.72
+6/1/2021,Handmade Crafts,Handicraft,4.48,223,Barcelona,Rainy,20% off,799.23,223,Regular,159.85
+6/1/2021,Handmade Crafts,Handicraft,2.72,495,Seville,Snowy,None,1346.4,495,Regular,269.28
+6/1/2021,Handmade Crafts,Handicraft,2.71,85,Seville,Sunny,10% off,207.31,85,Regular,41.46
+6/1/2021,Souvenirs,Handicraft,7.84,96,Seville,Rainy,None,752.64,96,Regular,150.53
+6/1/2021,Souvenirs,Handicraft,5.07,242,Madrid,Cold,10% off,1104.25,242,Premium,220.85
+6/1/2021,Souvenirs,Handicraft,4.65,130,Madrid,Cold,20% off,483.6,130,Premium,96.72
+6/1/2021,Tomatoes,Vegetable,9.5,447,Valencia,Sunny,None,4246.5,447,Budget,849.3
+6/1/2021,Tomatoes,Vegetable,2.82,76,Malaga,Sunny,20% off,171.46,76,Budget,34.29
+6/1/2021,Tomatoes,Vegetable,2.19,395,Valencia,Snowy,10% off,778.54,395,Regular,155.71
+7/1/2021,Apples,Fruit,5.1,408,Malaga,Snowy,20% off,1664.64,458,Premium,332.93
+7/1/2021,Apples,Fruit,3.82,282,Valencia,Sunny,10% off,969.52,332,Premium,193.9
+7/1/2021,Apples,Fruit,5.15,246,Madrid,Cold,Buy 1 Get 1 Free,1266.9,296,Regular,253.38
+7/1/2021,Oranges,Fruit,7.27,417,Valencia,Snowy,10% off,2728.43,467,Regular,545.69
+7/1/2021,Oranges,Fruit,7.17,339,Madrid,Sunny,Buy 1 Get 1 Free,2430.63,389,Regular,486.13
+7/1/2021,Oranges,Fruit,4.86,182,Madrid,Sunny,10% off,796.07,232,Budget,159.21
+7/1/2021,Handmade Crafts,Handicraft,3.24,53,Madrid,Rainy,10% off,154.55,53,Premium,30.91
+7/1/2021,Handmade Crafts,Handicraft,2.67,442,Seville,Cold,20% off,944.11,442,Budget,188.82
+7/1/2021,Handmade Crafts,Handicraft,4.29,198,Seville,Sunny,None,849.42,198,Premium,169.88
+7/1/2021,Souvenirs,Handicraft,7.85,304,Madrid,Rainy,Buy 1 Get 1 Free,2386.4,304,Budget,477.28
+7/1/2021,Souvenirs,Handicraft,4.73,116,Seville,Rainy,10% off,493.81,116,Budget,98.76
+7/1/2021,Souvenirs,Handicraft,6.25,306,Seville,Cold,20% off,1530,306,Premium,306
+7/1/2021,Tomatoes,Vegetable,4.88,86,Seville,Sunny,Buy 1 Get 1 Free,419.68,86,Premium,83.94
+7/1/2021,Tomatoes,Vegetable,1.66,273,Malaga,Sunny,None,453.18,273,Budget,90.64
+7/1/2021,Tomatoes,Vegetable,4.16,491,Seville,Snowy,10% off,1838.3,491,Regular,367.66
+8/1/2021,Apples,Fruit,4.94,363,Barcelona,Snowy,None,1793.22,413,Budget,358.64
+8/1/2021,Apples,Fruit,2.48,218,Malaga,Sunny,None,540.64,268,Regular,108.13
+8/1/2021,Apples,Fruit,2.96,236,Valencia,Snowy,None,698.56,286,Budget,139.71
+8/1/2021,Oranges,Fruit,7.36,495,Malaga,Cold,20% off,2914.56,545,Budget,582.91
+8/1/2021,Oranges,Fruit,5.21,115,Malaga,Sunny,20% off,479.32,165,Budget,95.86
+8/1/2021,Oranges,Fruit,5.2,194,Valencia,Snowy,Buy 1 Get 1 Free,1008.8,244,Budget,201.76
+8/1/2021,Handmade Crafts,Handicraft,2.17,318,Madrid,Cold,10% off,621.05,318,Premium,124.21
+8/1/2021,Handmade Crafts,Handicraft,4.39,431,Madrid,Cold,10% off,1702.88,431,Regular,340.58
+8/1/2021,Handmade Crafts,Handicraft,2.93,448,Madrid,Sunny,Buy 1 Get 1 Free,1312.64,448,Budget,262.53
+8/1/2021,Souvenirs,Handicraft,5.83,321,Malaga,Cold,20% off,1497.14,321,Premium,299.43
+8/1/2021,Souvenirs,Handicraft,7.68,229,Malaga,Rainy,Buy 1 Get 1 Free,1758.72,229,Premium,351.74
+8/1/2021,Souvenirs,Handicraft,2.37,170,Madrid,Cold,None,402.9,170,Premium,80.58
+8/1/2021,Tomatoes,Vegetable,2.97,151,Madrid,Rainy,Buy 1 Get 1 Free,448.47,151,Regular,89.69
+8/1/2021,Tomatoes,Vegetable,7.95,439,Madrid,Sunny,20% off,2792.04,439,Premium,558.41
+8/1/2021,Tomatoes,Vegetable,9.59,140,Madrid,Snowy,20% off,1074.08,140,Budget,214.82
+9/1/2021,Apples,Fruit,7.91,287,Seville,Snowy,10% off,2043.15,287,Budget,408.63
+9/1/2021,Apples,Fruit,9.36,398,Valencia,Cold,None,3725.28,398,Budget,745.06
+9/1/2021,Apples,Fruit,9.75,492,Seville,Cold,None,4797,492,Budget,959.4
+9/1/2021,Oranges,Fruit,5.24,127,Valencia,Snowy,20% off,532.38,127,Premium,106.48
+9/1/2021,Oranges,Fruit,6.87,276,Madrid,Cold,10% off,1706.51,276,Regular,341.3
+9/1/2021,Oranges,Fruit,1.98,352,Madrid,Sunny,None,696.96,352,Regular,139.39
+9/1/2021,Handmade Crafts,Handicraft,5.42,208,Malaga,Sunny,20% off,901.89,208,Budget,180.38
+9/1/2021,Handmade Crafts,Handicraft,4.63,79,Valencia,Cold,20% off,292.62,79,Budget,58.52
+9/1/2021,Handmade Crafts,Handicraft,6.98,89,Seville,Sunny,10% off,559.1,89,Budget,111.82
+9/1/2021,Souvenirs,Handicraft,6.55,364,Madrid,Snowy,None,2384.2,364,Premium,476.84
+9/1/2021,Souvenirs,Handicraft,6.43,286,Malaga,Sunny,Buy 1 Get 1 Free,1838.98,286,Premium,367.8
+9/1/2021,Souvenirs,Handicraft,9.23,280,Madrid,Rainy,None,2584.4,280,Regular,516.88
+9/1/2021,Tomatoes,Vegetable,6.64,214,Barcelona,Rainy,None,1420.96,214,Budget,284.19
+9/1/2021,Tomatoes,Vegetable,5.33,81,Barcelona,Cold,20% off,345.38,81,Premium,69.08
+9/1/2021,Tomatoes,Vegetable,2.22,415,Valencia,Rainy,None,921.3,415,Regular,184.26
+10/1/2021,Apples,Fruit,3.61,70,Madrid,Snowy,None,252.7,70,Regular,50.54
+10/1/2021,Apples,Fruit,5.95,274,Barcelona,Rainy,10% off,1467.27,274,Regular,293.45
+10/1/2021,Apples,Fruit,4.67,236,Valencia,Cold,None,1102.12,236,Regular,220.42
+10/1/2021,Oranges,Fruit,4.97,248,Seville,Cold,Buy 1 Get 1 Free,1232.56,248,Regular,246.51
+10/1/2021,Oranges,Fruit,6.58,397,Seville,Cold,None,2612.26,397,Premium,522.45
+10/1/2021,Oranges,Fruit,4.3,83,Madrid,Snowy,20% off,285.52,83,Budget,57.1
+10/1/2021,Handmade Crafts,Handicraft,3.64,195,Valencia,Rainy,None,709.8,195,Budget,141.96
+10/1/2021,Handmade Crafts,Handicraft,2.19,220,Malaga,Rainy,20% off,385.44,220,Regular,77.09
+10/1/2021,Handmade Crafts,Handicraft,4.14,229,Seville,Snowy,10% off,853.25,229,Budget,170.65
+10/1/2021,Souvenirs,Handicraft,6.56,116,Barcelona,Sunny,None,760.96,116,Premium,152.19
+10/1/2021,Souvenirs,Handicraft,6.25,208,Malaga,Cold,20% off,1040,208,Premium,208
+10/1/2021,Souvenirs,Handicraft,2.59,466,Valencia,Sunny,20% off,965.55,466,Regular,193.11
+10/1/2021,Tomatoes,Vegetable,7.2,380,Barcelona,Cold,None,2736,380,Premium,547.2
+10/1/2021,Tomatoes,Vegetable,4.58,59,Barcelona,Rainy,20% off,216.18,59,Budget,43.24
+10/1/2021,Tomatoes,Vegetable,4.4,159,Barcelona,Snowy,Buy 1 Get 1 Free,699.6,159,Regular,139.92
+11/1/2021,Apples,Fruit,3.43,148,Seville,Rainy,None,507.64,148,Premium,101.53
+11/1/2021,Apples,Fruit,2.16,129,Madrid,Sunny,20% off,222.91,129,Regular,44.58
+11/1/2021,Apples,Fruit,8.05,309,Seville,Sunny,20% off,1989.96,309,Regular,397.99
+11/1/2021,Oranges,Fruit,4.36,388,Malaga,Rainy,None,1691.68,388,Premium,338.34
+11/1/2021,Oranges,Fruit,4.7,355,Madrid,Rainy,10% off,1501.65,355,Budget,300.33
+11/1/2021,Oranges,Fruit,8.57,142,Barcelona,Rainy,20% off,973.55,142,Premium,194.71
+11/1/2021,Handmade Crafts,Handicraft,5.22,419,Madrid,Snowy,10% off,1968.46,449,Regular,393.69
+11/1/2021,Handmade Crafts,Handicraft,7.25,236,Seville,Rainy,10% off,1539.9,266,Regular,307.98
+11/1/2021,Handmade Crafts,Handicraft,6.69,277,Barcelona,Snowy,20% off,1482.5,307,Budget,296.5
+11/1/2021,Souvenirs,Handicraft,6.04,169,Valencia,Cold,10% off,918.68,199,Budget,183.74
+11/1/2021,Souvenirs,Handicraft,8.17,464,Madrid,Rainy,20% off,3032.7,494,Premium,606.54
+11/1/2021,Souvenirs,Handicraft,7.27,238,Seville,Snowy,Buy 1 Get 1 Free,1730.26,268,Premium,346.05
+11/1/2021,Tomatoes,Vegetable,8.04,286,Seville,Snowy,Buy 1 Get 1 Free,2299.44,286,Budget,459.89
+11/1/2021,Tomatoes,Vegetable,5.98,307,Madrid,Rainy,Buy 1 Get 1 Free,1835.86,307,Regular,367.17
+11/1/2021,Tomatoes,Vegetable,3.2,468,Madrid,Rainy,Buy 1 Get 1 Free,1497.6,468,Budget,299.52
+12/1/2021,Apples,Fruit,3.63,496,Seville,Snowy,Buy 1 Get 1 Free,1800.48,496,Budget,360.1
+12/1/2021,Apples,Fruit,4.66,497,Seville,Sunny,10% off,2084.42,497,Premium,416.88
+12/1/2021,Apples,Fruit,8.69,414,Seville,Sunny,20% off,2878.13,414,Premium,575.63
+12/1/2021,Oranges,Fruit,2.21,195,Valencia,Rainy,None,430.95,195,Budget,86.19
+12/1/2021,Oranges,Fruit,5.32,189,Malaga,Rainy,10% off,904.93,189,Premium,180.99
+12/1/2021,Oranges,Fruit,5.22,475,Malaga,Rainy,10% off,2231.55,475,Regular,446.31
+12/1/2021,Handmade Crafts,Handicraft,5.33,468,Valencia,Cold,20% off,1995.55,498,Premium,399.11
+12/1/2021,Handmade Crafts,Handicraft,5.03,63,Valencia,Snowy,None,316.89,93,Regular,63.38
+12/1/2021,Handmade Crafts,Handicraft,4.68,307,Valencia,Snowy,Buy 1 Get 1 Free,1436.76,337,Premium,287.35
+12/1/2021,Souvenirs,Handicraft,4.69,91,Barcelona,Sunny,10% off,384.11,121,Premium,76.82
+12/1/2021,Souvenirs,Handicraft,9.41,213,Barcelona,Cold,10% off,1803.9,243,Budget,360.78
+12/1/2021,Souvenirs,Handicraft,2.74,455,Seville,Sunny,10% off,1122.03,485,Budget,224.41
+12/1/2021,Tomatoes,Vegetable,9.3,196,Seville,Snowy,20% off,1458.24,196,Budget,291.65
+12/1/2021,Tomatoes,Vegetable,8.56,406,Valencia,Snowy,10% off,3127.82,406,Premium,625.56
+12/1/2021,Tomatoes,Vegetable,6.73,279,Seville,Sunny,Buy 1 Get 1 Free,1877.67,279,Regular,375.53
+1/1/2022,Apples,Fruit,3.68,59,Valencia,Rainy,10% off,195.41,59,Premium,39.08
+1/1/2022,Apples,Fruit,9.49,330,Valencia,Snowy,None,3131.7,330,Premium,626.34
+1/1/2022,Apples,Fruit,8.1,106,Madrid,Rainy,10% off,772.74,106,Regular,154.55
+1/1/2022,Oranges,Fruit,2.54,204,Madrid,Rainy,None,518.16,204,Premium,103.63
+1/1/2022,Oranges,Fruit,6.93,264,Madrid,Snowy,Buy 1 Get 1 Free,1829.52,264,Budget,365.9
+1/1/2022,Oranges,Fruit,2.44,82,Malaga,Snowy,20% off,160.06,82,Regular,32.01
+1/1/2022,Handmade Crafts,Handicraft,6.06,355,Barcelona,Rainy,Buy 1 Get 1 Free,2151.3,355,Budget,430.26
+1/1/2022,Handmade Crafts,Handicraft,2.72,417,Seville,Snowy,None,1134.24,417,Regular,226.85
+1/1/2022,Handmade Crafts,Handicraft,6.73,50,Madrid,Rainy,10% off,302.85,50,Premium,60.57
+1/1/2022,Souvenirs,Handicraft,5.04,342,Madrid,Sunny,10% off,1551.31,342,Regular,310.26
+1/1/2022,Souvenirs,Handicraft,9.78,318,Malaga,Sunny,Buy 1 Get 1 Free,3110.04,318,Regular,622.01
+1/1/2022,Souvenirs,Handicraft,6.12,319,Malaga,Sunny,Buy 1 Get 1 Free,1952.28,319,Premium,390.46
+1/1/2022,Tomatoes,Vegetable,8.92,249,Valencia,Sunny,20% off,1776.86,249,Regular,355.37
+1/1/2022,Tomatoes,Vegetable,4.79,375,Valencia,Cold,Buy 1 Get 1 Free,1796.25,375,Regular,359.25
+1/1/2022,Tomatoes,Vegetable,7.85,179,Malaga,Cold,None,1405.15,179,Budget,281.03
+2/1/2022,Apples,Fruit,2.07,453,Malaga,Rainy,None,937.71,453,Budget,187.54
+2/1/2022,Apples,Fruit,7.09,425,Barcelona,Sunny,20% off,2410.6,425,Budget,482.12
+2/1/2022,Apples,Fruit,6.45,445,Malaga,Cold,None,2870.25,445,Regular,574.05
+2/1/2022,Oranges,Fruit,1.88,118,Malaga,Cold,Buy 1 Get 1 Free,221.84,118,Regular,44.37
+2/1/2022,Oranges,Fruit,6.96,466,Valencia,Snowy,None,3243.36,466,Budget,648.67
+2/1/2022,Oranges,Fruit,5.57,406,Valencia,Rainy,None,2261.42,406,Premium,452.28
+2/1/2022,Handmade Crafts,Handicraft,2.65,465,Malaga,Snowy,None,1232.25,465,Budget,246.45
+2/1/2022,Handmade Crafts,Handicraft,3.99,68,Barcelona,Sunny,20% off,217.06,68,Regular,43.41
+2/1/2022,Handmade Crafts,Handicraft,3.2,455,Seville,Sunny,Buy 1 Get 1 Free,1456,455,Premium,291.2
+2/1/2022,Souvenirs,Handicraft,9.43,211,Madrid,Snowy,None,1989.73,211,Premium,397.95
+2/1/2022,Souvenirs,Handicraft,6.12,467,Barcelona,Cold,Buy 1 Get 1 Free,2858.04,467,Regular,571.61
+2/1/2022,Souvenirs,Handicraft,7.9,68,Barcelona,Rainy,10% off,483.48,68,Premium,96.7
+2/1/2022,Tomatoes,Vegetable,4.53,196,Valencia,Sunny,Buy 1 Get 1 Free,887.88,196,Budget,177.58
+2/1/2022,Tomatoes,Vegetable,7.07,493,Barcelona,Cold,20% off,2788.41,493,Budget,557.68
+2/1/2022,Tomatoes,Vegetable,8.29,113,Madrid,Snowy,20% off,749.42,113,Premium,149.88
+3/1/2022,Apples,Fruit,7.82,254,Valencia,Snowy,Buy 1 Get 1 Free,1986.28,254,Regular,397.26
+3/1/2022,Apples,Fruit,9.78,223,Barcelona,Snowy,10% off,1962.85,223,Regular,392.57
+3/1/2022,Apples,Fruit,5.73,404,Barcelona,Cold,None,2314.92,404,Premium,462.98
+3/1/2022,Oranges,Fruit,2.2,460,Madrid,Snowy,20% off,809.6,460,Regular,161.92
+3/1/2022,Oranges,Fruit,5.16,90,Madrid,Rainy,None,464.4,90,Budget,92.88
+3/1/2022,Oranges,Fruit,4,329,Valencia,Sunny,20% off,1052.8,329,Budget,210.56
+3/1/2022,Handmade Crafts,Handicraft,4.29,90,Malaga,Cold,20% off,308.88,90,Regular,61.78
+3/1/2022,Handmade Crafts,Handicraft,5.29,206,Madrid,Snowy,20% off,871.79,206,Premium,174.36
+3/1/2022,Handmade Crafts,Handicraft,7.36,135,Valencia,Cold,20% off,794.88,135,Premium,158.98
+3/1/2022,Souvenirs,Handicraft,1.86,278,Valencia,Cold,Buy 1 Get 1 Free,517.08,278,Regular,103.42
+3/1/2022,Souvenirs,Handicraft,9.98,364,Madrid,Cold,10% off,3269.45,364,Budget,653.89
+3/1/2022,Souvenirs,Handicraft,9.83,377,Valencia,Sunny,10% off,3335.32,377,Budget,667.06
+3/1/2022,Tomatoes,Vegetable,7.21,88,Valencia,Snowy,10% off,571.03,88,Budget,114.21
+3/1/2022,Tomatoes,Vegetable,5.86,236,Malaga,Rainy,20% off,1106.37,236,Premium,221.27
+3/1/2022,Tomatoes,Vegetable,2.71,65,Malaga,Snowy,None,176.15,65,Budget,35.23
+4/1/2022,Apples,Fruit,2.57,67,Malaga,Rainy,20% off,137.75,67,Premium,27.55
+4/1/2022,Apples,Fruit,6.98,448,Malaga,Cold,None,3127.04,448,Premium,625.41
+4/1/2022,Apples,Fruit,9.57,246,Malaga,Sunny,20% off,1883.38,246,Regular,376.68
+4/1/2022,Oranges,Fruit,2.8,359,Valencia,Snowy,Buy 1 Get 1 Free,1005.2,359,Budget,201.04
+4/1/2022,Oranges,Fruit,4.66,239,Barcelona,Sunny,20% off,890.99,239,Regular,178.2
+4/1/2022,Oranges,Fruit,2.67,343,Valencia,Cold,20% off,732.65,343,Budget,146.53
+4/1/2022,Handmade Crafts,Handicraft,4.17,253,Barcelona,Cold,10% off,949.51,253,Budget,189.9
+4/1/2022,Handmade Crafts,Handicraft,9.66,177,Valencia,Sunny,Buy 1 Get 1 Free,1709.82,177,Budget,341.96
+4/1/2022,Handmade Crafts,Handicraft,3.08,426,Malaga,Snowy,10% off,1180.87,426,Budget,236.17
+4/1/2022,Souvenirs,Handicraft,2.5,337,Madrid,Cold,10% off,758.25,337,Budget,151.65
+4/1/2022,Souvenirs,Handicraft,5.29,410,Madrid,Cold,Buy 1 Get 1 Free,2168.9,410,Premium,433.78
+4/1/2022,Souvenirs,Handicraft,9.29,405,Barcelona,Snowy,20% off,3009.96,405,Budget,601.99
+4/1/2022,Tomatoes,Vegetable,2.54,152,Seville,Sunny,20% off,308.86,152,Regular,61.77
+4/1/2022,Tomatoes,Vegetable,2.97,281,Valencia,Snowy,Buy 1 Get 1 Free,834.57,281,Regular,166.91
+4/1/2022,Tomatoes,Vegetable,8.39,94,Seville,Cold,20% off,630.93,94,Budget,126.19
+5/1/2022,Apples,Fruit,4.45,391,Madrid,Sunny,20% off,1391.96,391,Budget,278.39
+5/1/2022,Apples,Fruit,6.11,331,Malaga,Cold,20% off,1617.93,331,Regular,323.59
+5/1/2022,Apples,Fruit,2.84,485,Malaga,Rainy,10% off,1239.66,485,Budget,247.93
+5/1/2022,Oranges,Fruit,4.57,456,Valencia,Rainy,None,2083.92,456,Regular,416.78
+5/1/2022,Oranges,Fruit,9.87,112,Madrid,Rainy,20% off,884.35,112,Budget,176.87
+5/1/2022,Oranges,Fruit,8.22,171,Madrid,Sunny,None,1405.62,171,Budget,281.12
+5/1/2022,Handmade Crafts,Handicraft,6.21,234,Malaga,Cold,10% off,1307.83,234,Budget,261.57
+5/1/2022,Handmade Crafts,Handicraft,8.33,289,Malaga,Rainy,None,2407.37,289,Premium,481.47
+5/1/2022,Handmade Crafts,Handicraft,9.02,363,Seville,Sunny,Buy 1 Get 1 Free,3274.26,363,Regular,654.85
+5/1/2022,Souvenirs,Handicraft,4.88,208,Barcelona,Snowy,Buy 1 Get 1 Free,1015.04,208,Regular,203.01
+5/1/2022,Souvenirs,Handicraft,4.99,319,Valencia,Snowy,None,1591.81,319,Regular,318.36
+5/1/2022,Souvenirs,Handicraft,6.39,471,Seville,Rainy,None,3009.69,471,Premium,601.94
+5/1/2022,Tomatoes,Vegetable,6.96,212,Malaga,Snowy,20% off,1180.42,212,Premium,236.08
+5/1/2022,Tomatoes,Vegetable,7.28,288,Madrid,Cold,20% off,1677.31,288,Budget,335.46
+5/1/2022,Tomatoes,Vegetable,8.96,115,Barcelona,Rainy,Buy 1 Get 1 Free,1030.4,115,Regular,206.08
+6/1/2022,Apples,Fruit,9.71,463,Madrid,Snowy,Buy 1 Get 1 Free,4495.73,513,Budget,899.15
+6/1/2022,Apples,Fruit,9.24,327,Barcelona,Sunny,20% off,2417.18,377,Premium,483.44
+6/1/2022,Apples,Fruit,2.56,495,Valencia,Rainy,Buy 1 Get 1 Free,1267.2,545,Regular,253.44
+6/1/2022,Oranges,Fruit,2.9,225,Seville,Cold,Buy 1 Get 1 Free,652.5,275,Budget,130.5
+6/1/2022,Oranges,Fruit,3.42,433,Madrid,Cold,None,1480.86,483,Regular,296.17
+6/1/2022,Oranges,Fruit,2.17,503,Seville,Rainy,Buy 1 Get 1 Free,1091.51,553,Budget,218.3
+6/1/2022,Handmade Crafts,Handicraft,9.63,375,Valencia,Cold,None,3611.25,375,Premium,722.25
+6/1/2022,Handmade Crafts,Handicraft,6.81,114,Barcelona,Sunny,10% off,698.71,114,Regular,139.74
+6/1/2022,Handmade Crafts,Handicraft,6.95,307,Valencia,Rainy,10% off,1920.29,307,Regular,384.06
+6/1/2022,Souvenirs,Handicraft,7.1,137,Madrid,Cold,20% off,778.16,137,Regular,155.63
+6/1/2022,Souvenirs,Handicraft,9.35,481,Valencia,Sunny,20% off,3597.88,481,Budget,719.58
+6/1/2022,Souvenirs,Handicraft,8.84,472,Barcelona,Sunny,Buy 1 Get 1 Free,4172.48,472,Premium,834.5
+6/1/2022,Tomatoes,Vegetable,9.56,73,Valencia,Cold,None,697.88,73,Regular,139.58
+6/1/2022,Tomatoes,Vegetable,3.29,383,Seville,Snowy,Buy 1 Get 1 Free,1260.07,383,Regular,252.01
+6/1/2022,Tomatoes,Vegetable,6.93,366,Malaga,Snowy,20% off,2029.1,366,Premium,405.82
+7/1/2022,Apples,Fruit,6.14,391,Valencia,Cold,Buy 1 Get 1 Free,2400.74,441,Premium,480.15
+7/1/2022,Apples,Fruit,3.58,317,Malaga,Snowy,10% off,1021.37,367,Premium,204.27
+7/1/2022,Apples,Fruit,5.36,222,Barcelona,Sunny,None,1189.92,272,Budget,237.98
+7/1/2022,Oranges,Fruit,5.24,150,Madrid,Snowy,10% off,707.4,200,Regular,141.48
+7/1/2022,Oranges,Fruit,3.23,307,Barcelona,Rainy,10% off,892.45,357,Regular,178.49
+7/1/2022,Oranges,Fruit,8.82,230,Malaga,Cold,10% off,1825.74,280,Premium,365.15
+7/1/2022,Handmade Crafts,Handicraft,9.9,425,Valencia,Cold,None,4207.5,425,Premium,841.5
+7/1/2022,Handmade Crafts,Handicraft,2.61,254,Seville,Cold,None,662.94,254,Regular,132.59
+7/1/2022,Handmade Crafts,Handicraft,6.27,313,Seville,Cold,None,1962.51,313,Regular,392.5
+7/1/2022,Souvenirs,Handicraft,5.47,173,Malaga,Cold,10% off,851.68,173,Premium,170.34
+7/1/2022,Souvenirs,Handicraft,3.61,280,Seville,Sunny,Buy 1 Get 1 Free,1010.8,280,Budget,202.16
+7/1/2022,Souvenirs,Handicraft,3.97,75,Valencia,Snowy,None,297.75,75,Premium,59.55
+7/1/2022,Tomatoes,Vegetable,6.73,492,Madrid,Rainy,None,3311.16,492,Premium,662.23
+7/1/2022,Tomatoes,Vegetable,9.17,493,Seville,Cold,10% off,4068.73,493,Premium,813.75
+7/1/2022,Tomatoes,Vegetable,7.63,345,Valencia,Rainy,10% off,2369.11,345,Regular,473.82
+8/1/2022,Apples,Fruit,2.85,460,Madrid,Snowy,None,1311,510,Regular,262.2
+8/1/2022,Apples,Fruit,8.97,325,Seville,Snowy,10% off,2623.72,375,Budget,524.74
+8/1/2022,Apples,Fruit,2.27,81,Barcelona,Snowy,20% off,147.1,131,Budget,29.42
+8/1/2022,Oranges,Fruit,5.39,328,Madrid,Rainy,10% off,1591.13,378,Premium,318.23
+8/1/2022,Oranges,Fruit,6.46,180,Barcelona,Sunny,None,1162.8,230,Budget,232.56
+8/1/2022,Oranges,Fruit,3.89,95,Seville,Snowy,20% off,295.64,145,Regular,59.13
+8/1/2022,Handmade Crafts,Handicraft,6.06,196,Barcelona,Sunny,None,1187.76,196,Regular,237.55
+8/1/2022,Handmade Crafts,Handicraft,2.64,270,Valencia,Cold,20% off,570.24,270,Premium,114.05
+8/1/2022,Handmade Crafts,Handicraft,4.61,422,Malaga,Snowy,Buy 1 Get 1 Free,1945.42,422,Premium,389.08
+8/1/2022,Souvenirs,Handicraft,1.88,237,Barcelona,Sunny,Buy 1 Get 1 Free,445.56,237,Budget,89.11
+8/1/2022,Souvenirs,Handicraft,6.28,341,Seville,Cold,10% off,1927.33,341,Premium,385.47
+8/1/2022,Souvenirs,Handicraft,3.95,333,Seville,Snowy,10% off,1183.82,333,Regular,236.76
+8/1/2022,Tomatoes,Vegetable,5.33,308,Seville,Cold,Buy 1 Get 1 Free,1641.64,308,Budget,328.33
+8/1/2022,Tomatoes,Vegetable,9.91,472,Valencia,Sunny,10% off,4209.77,472,Premium,841.95
+8/1/2022,Tomatoes,Vegetable,9.79,115,Seville,Snowy,None,1125.85,115,Budget,225.17
+9/1/2022,Apples,Fruit,8.26,241,Malaga,Cold,10% off,1791.59,241,Premium,358.32
+9/1/2022,Apples,Fruit,9.48,335,Malaga,Rainy,Buy 1 Get 1 Free,3175.8,335,Regular,635.16
+9/1/2022,Apples,Fruit,6.62,151,Seville,Snowy,None,999.62,151,Premium,199.92
+9/1/2022,Oranges,Fruit,1.84,306,Barcelona,Sunny,10% off,506.74,306,Premium,101.35
+9/1/2022,Oranges,Fruit,7.57,120,Madrid,Snowy,10% off,817.56,120,Budget,163.51
+9/1/2022,Oranges,Fruit,5.38,315,Valencia,Rainy,Buy 1 Get 1 Free,1694.7,315,Budget,338.94
+9/1/2022,Handmade Crafts,Handicraft,9.42,217,Seville,Cold,Buy 1 Get 1 Free,2044.14,217,Regular,408.83
+9/1/2022,Handmade Crafts,Handicraft,4.84,133,Madrid,Cold,Buy 1 Get 1 Free,643.72,133,Regular,128.74
+9/1/2022,Handmade Crafts,Handicraft,4.36,353,Seville,Snowy,20% off,1231.26,353,Premium,246.25
+9/1/2022,Souvenirs,Handicraft,6.28,412,Madrid,Snowy,10% off,2328.62,412,Regular,465.72
+9/1/2022,Souvenirs,Handicraft,1.64,467,Seville,Cold,None,765.88,467,Premium,153.18
+9/1/2022,Souvenirs,Handicraft,2.43,394,Barcelona,Snowy,10% off,861.68,394,Premium,172.34
+9/1/2022,Tomatoes,Vegetable,4.12,348,Malaga,Sunny,10% off,1290.38,348,Budget,258.08
+9/1/2022,Tomatoes,Vegetable,5.53,355,Valencia,Rainy,None,1963.15,355,Regular,392.63
+9/1/2022,Tomatoes,Vegetable,1.94,419,Malaga,Snowy,10% off,731.57,419,Budget,146.31
+10/1/2022,Apples,Fruit,5.96,137,Barcelona,Snowy,10% off,734.87,137,Premium,146.97
+10/1/2022,Apples,Fruit,8.48,125,Barcelona,Rainy,None,1060,125,Budget,212
+10/1/2022,Apples,Fruit,6.37,66,Seville,Sunny,20% off,336.34,66,Premium,67.27
+10/1/2022,Oranges,Fruit,1.66,147,Madrid,Cold,10% off,219.62,147,Premium,43.92
+10/1/2022,Oranges,Fruit,2.79,264,Barcelona,Rainy,None,736.56,264,Regular,147.31
+10/1/2022,Oranges,Fruit,5.77,260,Madrid,Snowy,None,1500.2,260,Premium,300.04
+10/1/2022,Handmade Crafts,Handicraft,8.71,496,Malaga,Sunny,Buy 1 Get 1 Free,4320.16,496,Premium,864.03
+10/1/2022,Handmade Crafts,Handicraft,2.67,411,Malaga,Rainy,Buy 1 Get 1 Free,1097.37,411,Premium,219.47
+10/1/2022,Handmade Crafts,Handicraft,4.26,337,Madrid,Snowy,None,1435.62,337,Budget,287.12
+10/1/2022,Souvenirs,Handicraft,4.7,319,Barcelona,Rainy,None,1499.3,319,Premium,299.86
+10/1/2022,Souvenirs,Handicraft,9.25,285,Valencia,Cold,None,2636.25,285,Premium,527.25
+10/1/2022,Souvenirs,Handicraft,4.51,329,Seville,Cold,10% off,1335.41,329,Budget,267.08
+10/1/2022,Tomatoes,Vegetable,5.62,362,Valencia,Rainy,20% off,1627.55,362,Budget,325.51
+10/1/2022,Tomatoes,Vegetable,6.24,192,Malaga,Rainy,Buy 1 Get 1 Free,1198.08,192,Regular,239.62
+10/1/2022,Tomatoes,Vegetable,8.05,202,Malaga,Rainy,20% off,1300.88,202,Budget,260.18
+11/1/2022,Apples,Fruit,7.49,403,Valencia,Cold,None,3018.47,403,Regular,603.69
+11/1/2022,Apples,Fruit,4.46,295,Barcelona,Cold,20% off,1052.56,295,Budget,210.51
+11/1/2022,Apples,Fruit,2.54,197,Madrid,Snowy,10% off,450.34,197,Regular,90.07
+11/1/2022,Oranges,Fruit,8.46,252,Barcelona,Rainy,20% off,1705.54,252,Regular,341.11
+11/1/2022,Oranges,Fruit,1.86,198,Valencia,Sunny,None,368.28,198,Premium,73.66
+11/1/2022,Oranges,Fruit,9.35,227,Barcelona,Cold,10% off,1910.2,227,Premium,382.04
+11/1/2022,Handmade Crafts,Handicraft,5.57,432,Seville,Rainy,10% off,2165.62,462,Premium,433.12
+11/1/2022,Handmade Crafts,Handicraft,6.08,473,Barcelona,Cold,20% off,2300.67,503,Budget,460.13
+11/1/2022,Handmade Crafts,Handicraft,2.43,120,Malaga,Rainy,10% off,262.44,150,Budget,52.49
+11/1/2022,Souvenirs,Handicraft,1.93,174,Madrid,Rainy,Buy 1 Get 1 Free,335.82,204,Budget,67.16
+11/1/2022,Souvenirs,Handicraft,3.48,376,Malaga,Sunny,20% off,1046.78,406,Regular,209.36
+11/1/2022,Souvenirs,Handicraft,4.31,261,Barcelona,Snowy,10% off,1012.42,291,Regular,202.48
+11/1/2022,Tomatoes,Vegetable,7.29,101,Malaga,Rainy,None,736.29,101,Regular,147.26
+11/1/2022,Tomatoes,Vegetable,9.7,52,Barcelona,Rainy,10% off,453.96,52,Premium,90.79
+11/1/2022,Tomatoes,Vegetable,7.05,258,Seville,Snowy,None,1818.9,258,Regular,363.78
+12/1/2022,Apples,Fruit,7.03,294,Seville,Cold,20% off,1653.46,294,Budget,330.69
+12/1/2022,Apples,Fruit,3.93,214,Barcelona,Sunny,None,841.02,214,Regular,168.2
+12/1/2022,Apples,Fruit,2.26,443,Valencia,Rainy,None,1001.18,443,Regular,200.24
+12/1/2022,Oranges,Fruit,7.78,323,Barcelona,Sunny,Buy 1 Get 1 Free,2512.94,323,Premium,502.59
+12/1/2022,Oranges,Fruit,5.05,139,Malaga,Rainy,None,701.95,139,Regular,140.39
+12/1/2022,Oranges,Fruit,9.98,68,Valencia,Snowy,10% off,610.78,68,Regular,122.16
+12/1/2022,Handmade Crafts,Handicraft,5.71,453,Madrid,Cold,Buy 1 Get 1 Free,2586.63,483,Budget,517.33
+12/1/2022,Handmade Crafts,Handicraft,1.82,498,Barcelona,Cold,10% off,815.72,528,Budget,163.14
+12/1/2022,Handmade Crafts,Handicraft,6.62,340,Malaga,Cold,20% off,1800.64,370,Regular,360.13
+12/1/2022,Souvenirs,Handicraft,5.36,195,Valencia,Snowy,None,1045.2,225,Regular,209.04
+12/1/2022,Souvenirs,Handicraft,8.73,118,Malaga,Snowy,None,1030.14,148,Regular,206.03
+12/1/2022,Souvenirs,Handicraft,3.14,189,Barcelona,Sunny,20% off,474.77,219,Regular,94.95
+12/1/2022,Tomatoes,Vegetable,2.88,219,Madrid,Snowy,None,630.72,219,Regular,126.14
+12/1/2022,Tomatoes,Vegetable,3.69,381,Malaga,Rainy,20% off,1124.71,381,Premium,224.94
+12/1/2022,Tomatoes,Vegetable,7.76,57,Seville,Cold,Buy 1 Get 1 Free,442.32,57,Budget,88.46
+1/1/2023,Apples,Fruit,7.23,340,Seville,Rainy,Buy 1 Get 1 Free,2458.2,340,Budget,491.64
+1/1/2023,Apples,Fruit,6.69,139,Seville,Snowy,Buy 1 Get 1 Free,929.91,139,Regular,185.98
+1/1/2023,Apples,Fruit,5.14,473,Barcelona,Cold,Buy 1 Get 1 Free,2431.22,473,Budget,486.24
+1/1/2023,Oranges,Fruit,4.91,94,Valencia,Sunny,Buy 1 Get 1 Free,461.54,94,Premium,92.31
+1/1/2023,Oranges,Fruit,9.84,144,Valencia,Snowy,10% off,1275.26,144,Regular,255.05
+1/1/2023,Oranges,Fruit,9.45,215,Barcelona,Sunny,None,2031.75,215,Budget,406.35
+1/1/2023,Handmade Crafts,Handicraft,4.76,183,Malaga,Snowy,Buy 1 Get 1 Free,871.08,183,Budget,174.22
+1/1/2023,Handmade Crafts,Handicraft,3.77,435,Malaga,Cold,20% off,1311.96,435,Premium,262.39
+1/1/2023,Handmade Crafts,Handicraft,6.45,204,Barcelona,Sunny,Buy 1 Get 1 Free,1315.8,204,Regular,263.16
+1/1/2023,Souvenirs,Handicraft,7.06,183,Barcelona,Rainy,10% off,1162.78,183,Budget,232.56
+1/1/2023,Souvenirs,Handicraft,7.18,81,Seville,Snowy,None,581.58,81,Regular,116.32
+1/1/2023,Souvenirs,Handicraft,2.86,207,Madrid,Cold,10% off,532.82,207,Regular,106.56
+1/1/2023,Tomatoes,Vegetable,2.5,403,Malaga,Cold,Buy 1 Get 1 Free,1007.5,403,Premium,201.5
+1/1/2023,Tomatoes,Vegetable,6.72,238,Barcelona,Rainy,10% off,1439.42,238,Regular,287.88
+1/1/2023,Tomatoes,Vegetable,5.56,118,Seville,Snowy,Buy 1 Get 1 Free,656.08,118,Budget,131.22
+2/1/2023,Apples,Fruit,9.91,432,Madrid,Cold,Buy 1 Get 1 Free,4281.12,432,Budget,856.22
+2/1/2023,Apples,Fruit,7.47,262,Malaga,Snowy,20% off,1565.71,262,Premium,313.14
+2/1/2023,Apples,Fruit,6.07,437,Barcelona,Rainy,10% off,2387.33,437,Regular,477.47
+2/1/2023,Oranges,Fruit,3.6,440,Madrid,Sunny,20% off,1267.2,440,Regular,253.44
+2/1/2023,Oranges,Fruit,5.3,319,Malaga,Cold,20% off,1352.56,319,Budget,270.51
+2/1/2023,Oranges,Fruit,9.3,89,Malaga,Sunny,10% off,744.93,89,Budget,148.99
+2/1/2023,Handmade Crafts,Handicraft,8.54,81,Malaga,Rainy,Buy 1 Get 1 Free,691.74,81,Premium,138.35
+2/1/2023,Handmade Crafts,Handicraft,6.06,343,Madrid,Rainy,None,2078.58,343,Budget,415.72
+2/1/2023,Handmade Crafts,Handicraft,8.76,217,Madrid,Snowy,None,1900.92,217,Budget,380.18
+2/1/2023,Souvenirs,Handicraft,7.28,109,Seville,Snowy,None,793.52,109,Regular,158.7
+2/1/2023,Souvenirs,Handicraft,9.14,96,Malaga,Snowy,10% off,789.7,96,Regular,157.94
+2/1/2023,Souvenirs,Handicraft,1.97,464,Seville,Rainy,20% off,731.26,464,Premium,146.25
+2/1/2023,Tomatoes,Vegetable,5.03,312,Valencia,Sunny,20% off,1255.49,312,Premium,251.1
+2/1/2023,Tomatoes,Vegetable,5.43,336,Seville,Cold,20% off,1459.58,336,Premium,291.92
+2/1/2023,Tomatoes,Vegetable,1.69,420,Valencia,Cold,None,709.8,420,Premium,141.96
+3/1/2023,Apples,Fruit,1.53,468,Valencia,Rainy,None,716.04,468,Premium,143.21
+3/1/2023,Apples,Fruit,2.12,346,Valencia,Snowy,Buy 1 Get 1 Free,733.52,346,Regular,146.7
+3/1/2023,Apples,Fruit,7.45,226,Seville,Sunny,20% off,1346.96,226,Premium,269.39
+3/1/2023,Oranges,Fruit,9.88,85,Barcelona,Snowy,Buy 1 Get 1 Free,839.8,85,Premium,167.96
+3/1/2023,Oranges,Fruit,3.94,66,Seville,Rainy,10% off,234.04,66,Premium,46.81
+3/1/2023,Oranges,Fruit,2.65,443,Madrid,Snowy,10% off,1056.56,443,Premium,211.31
+3/1/2023,Handmade Crafts,Handicraft,9.94,241,Valencia,Snowy,None,2395.54,241,Regular,479.11
+3/1/2023,Handmade Crafts,Handicraft,8.89,279,Malaga,Snowy,10% off,2232.28,279,Budget,446.46
+3/1/2023,Handmade Crafts,Handicraft,2.18,242,Madrid,Rainy,Buy 1 Get 1 Free,527.56,242,Budget,105.51
+3/1/2023,Souvenirs,Handicraft,8.81,384,Malaga,Sunny,None,3383.04,384,Premium,676.61
+3/1/2023,Souvenirs,Handicraft,9.94,141,Madrid,Snowy,None,1401.54,141,Budget,280.31
+3/1/2023,Souvenirs,Handicraft,2.58,320,Valencia,Rainy,None,825.6,320,Budget,165.12
+3/1/2023,Tomatoes,Vegetable,1.53,477,Malaga,Sunny,20% off,583.85,477,Regular,116.77
+3/1/2023,Tomatoes,Vegetable,5.44,202,Madrid,Snowy,None,1098.88,202,Budget,219.78
+3/1/2023,Tomatoes,Vegetable,4.72,322,Valencia,Rainy,None,1519.84,322,Premium,303.97
+4/1/2023,Apples,Fruit,5.42,176,Seville,Rainy,Buy 1 Get 1 Free,953.92,176,Regular,190.78
+4/1/2023,Apples,Fruit,3.1,191,Barcelona,Sunny,None,592.1,191,Regular,118.42
+4/1/2023,Apples,Fruit,8.38,66,Valencia,Snowy,Buy 1 Get 1 Free,553.08,66,Regular,110.62
+4/1/2023,Oranges,Fruit,8.01,364,Barcelona,Sunny,10% off,2624.08,364,Budget,524.82
+4/1/2023,Oranges,Fruit,3.25,173,Barcelona,Sunny,Buy 1 Get 1 Free,562.25,173,Premium,112.45
+4/1/2023,Oranges,Fruit,1.79,354,Seville,Sunny,None,633.66,354,Budget,126.73
+4/1/2023,Handmade Crafts,Handicraft,7.79,175,Barcelona,Snowy,Buy 1 Get 1 Free,1363.25,175,Budget,272.65
+4/1/2023,Handmade Crafts,Handicraft,3.49,274,Malaga,Rainy,Buy 1 Get 1 Free,956.26,274,Regular,191.25
+4/1/2023,Handmade Crafts,Handicraft,8.84,436,Malaga,Sunny,20% off,3083.39,436,Budget,616.68
+4/1/2023,Souvenirs,Handicraft,5.78,121,Seville,Cold,Buy 1 Get 1 Free,699.38,121,Budget,139.88
+4/1/2023,Souvenirs,Handicraft,8.43,169,Malaga,Cold,20% off,1139.74,169,Premium,227.95
+4/1/2023,Souvenirs,Handicraft,6.58,345,Seville,Cold,10% off,2043.09,345,Premium,408.62
+4/1/2023,Tomatoes,Vegetable,4.06,171,Madrid,Rainy,None,694.26,171,Regular,138.85
+4/1/2023,Tomatoes,Vegetable,5.93,388,Valencia,Snowy,20% off,1840.67,388,Regular,368.13
+4/1/2023,Tomatoes,Vegetable,3.84,203,Valencia,Rainy,Buy 1 Get 1 Free,779.52,203,Budget,155.9
+5/1/2023,Apples,Fruit,7.27,370,Valencia,Snowy,Buy 1 Get 1 Free,2689.9,370,Budget,537.98
+5/1/2023,Apples,Fruit,9.76,74,Madrid,Snowy,None,722.24,74,Premium,144.45
+5/1/2023,Apples,Fruit,5.96,452,Madrid,Snowy,20% off,2155.14,452,Premium,431.03
+5/1/2023,Oranges,Fruit,2.77,259,Barcelona,Snowy,20% off,573.94,259,Premium,114.79
+5/1/2023,Oranges,Fruit,7.91,144,Malaga,Snowy,10% off,1025.14,144,Budget,205.03
+5/1/2023,Oranges,Fruit,8.72,173,Seville,Cold,10% off,1357.7,173,Regular,271.54
+5/1/2023,Handmade Crafts,Handicraft,7.51,489,Malaga,Snowy,10% off,3305.15,489,Budget,661.03
+5/1/2023,Handmade Crafts,Handicraft,6.28,79,Valencia,Snowy,20% off,396.9,79,Budget,79.38
+5/1/2023,Handmade Crafts,Handicraft,6,335,Malaga,Snowy,20% off,1608,335,Premium,321.6
+5/1/2023,Souvenirs,Handicraft,3.67,174,Madrid,Cold,None,638.58,174,Budget,127.72
+5/1/2023,Souvenirs,Handicraft,2.17,381,Valencia,Snowy,20% off,661.42,381,Regular,132.28
+5/1/2023,Souvenirs,Handicraft,4.65,483,Madrid,Rainy,20% off,1796.76,483,Budget,359.35
+5/1/2023,Tomatoes,Vegetable,3.78,76,Madrid,Sunny,20% off,229.82,76,Budget,45.96
+5/1/2023,Tomatoes,Vegetable,2.12,497,Malaga,Rainy,10% off,948.28,497,Budget,189.66
+5/1/2023,Tomatoes,Vegetable,3.28,295,Barcelona,Cold,Buy 1 Get 1 Free,967.6,295,Premium,193.52
+6/1/2023,Apples,Fruit,9.63,225,Barcelona,Sunny,10% off,1950.08,275,Premium,390.02
+6/1/2023,Apples,Fruit,9.47,178,Malaga,Sunny,20% off,1348.53,228,Budget,269.71
+6/1/2023,Apples,Fruit,10,452,Barcelona,Snowy,None,4520,502,Regular,904
+6/1/2023,Oranges,Fruit,7.41,194,Seville,Rainy,Buy 1 Get 1 Free,1437.54,244,Regular,287.51
+6/1/2023,Oranges,Fruit,9.28,273,Madrid,Cold,10% off,2280.1,323,Budget,456.02
+6/1/2023,Oranges,Fruit,3.91,467,Malaga,Snowy,10% off,1643.37,517,Regular,328.67
+6/1/2023,Handmade Crafts,Handicraft,7.01,323,Valencia,Cold,Buy 1 Get 1 Free,2264.23,323,Budget,452.85
+6/1/2023,Handmade Crafts,Handicraft,4.56,183,Valencia,Snowy,20% off,667.58,183,Regular,133.52
+6/1/2023,Handmade Crafts,Handicraft,2.34,288,Malaga,Snowy,20% off,539.14,288,Budget,107.83
+6/1/2023,Souvenirs,Handicraft,8.64,439,Malaga,Rainy,10% off,3413.66,439,Premium,682.73
+6/1/2023,Souvenirs,Handicraft,4.16,239,Valencia,Sunny,10% off,894.82,239,Premium,178.96
+6/1/2023,Souvenirs,Handicraft,8.84,338,Barcelona,Rainy,20% off,2390.34,338,Regular,478.07
+6/1/2023,Tomatoes,Vegetable,3.72,58,Barcelona,Snowy,20% off,172.61,58,Budget,34.52
+6/1/2023,Tomatoes,Vegetable,2.8,201,Barcelona,Cold,None,562.8,201,Budget,112.56
+6/1/2023,Tomatoes,Vegetable,4.73,167,Madrid,Rainy,20% off,631.93,167,Budget,126.39
+7/1/2023,Apples,Fruit,6.18,325,Valencia,Cold,10% off,1807.65,375,Premium,361.53
+7/1/2023,Apples,Fruit,7.99,201,Madrid,Snowy,20% off,1284.79,251,Premium,256.96
+7/1/2023,Apples,Fruit,6.95,440,Barcelona,Snowy,20% off,2446.4,490,Budget,489.28
+7/1/2023,Oranges,Fruit,2.93,305,Seville,Cold,10% off,804.29,355,Premium,160.86
+7/1/2023,Oranges,Fruit,2.69,156,Valencia,Snowy,20% off,335.71,206,Budget,67.14
+7/1/2023,Oranges,Fruit,9.29,164,Malaga,Sunny,Buy 1 Get 1 Free,1523.56,214,Budget,304.71
+7/1/2023,Handmade Crafts,Handicraft,1.79,318,Valencia,Sunny,None,569.22,318,Budget,113.84
+7/1/2023,Handmade Crafts,Handicraft,7.18,468,Seville,Sunny,Buy 1 Get 1 Free,3360.24,468,Premium,672.05
+7/1/2023,Handmade Crafts,Handicraft,2.67,261,Seville,Rainy,20% off,557.5,261,Regular,111.5
+7/1/2023,Souvenirs,Handicraft,7.51,84,Madrid,Sunny,Buy 1 Get 1 Free,630.84,84,Premium,126.17
+7/1/2023,Souvenirs,Handicraft,5.8,161,Valencia,Cold,None,933.8,161,Regular,186.76
+7/1/2023,Souvenirs,Handicraft,6.75,80,Malaga,Snowy,20% off,432,80,Regular,86.4
+7/1/2023,Tomatoes,Vegetable,5.65,387,Madrid,Sunny,None,2186.55,387,Budget,437.31
+7/1/2023,Tomatoes,Vegetable,6.19,322,Madrid,Sunny,20% off,1594.54,322,Premium,318.91
+7/1/2023,Tomatoes,Vegetable,6,58,Barcelona,Cold,None,348,58,Budget,69.6
+8/1/2023,Apples,Fruit,9.81,344,Madrid,Sunny,Buy 1 Get 1 Free,3374.64,394,Regular,674.93
+8/1/2023,Apples,Fruit,8.41,327,Barcelona,Snowy,Buy 1 Get 1 Free,2750.07,377,Premium,550.01
+8/1/2023,Apples,Fruit,9.49,482,Malaga,Rainy,10% off,4116.76,532,Premium,823.35
+8/1/2023,Oranges,Fruit,9.3,124,Valencia,Rainy,Buy 1 Get 1 Free,1153.2,174,Premium,230.64
+8/1/2023,Oranges,Fruit,3.13,193,Malaga,Cold,None,604.09,243,Budget,120.82
+8/1/2023,Oranges,Fruit,4.51,487,Seville,Snowy,20% off,1757.1,537,Premium,351.42
+8/1/2023,Handmade Crafts,Handicraft,4.67,90,Valencia,Snowy,Buy 1 Get 1 Free,420.3,90,Budget,84.06
+8/1/2023,Handmade Crafts,Handicraft,6.3,285,Valencia,Rainy,Buy 1 Get 1 Free,1795.5,285,Budget,359.1
+8/1/2023,Handmade Crafts,Handicraft,7.31,203,Madrid,Sunny,10% off,1335.54,203,Premium,267.11
+8/1/2023,Souvenirs,Handicraft,9.93,384,Malaga,Sunny,Buy 1 Get 1 Free,3813.12,384,Premium,762.62
+8/1/2023,Souvenirs,Handicraft,4.94,97,Malaga,Snowy,20% off,383.34,97,Premium,76.67
+8/1/2023,Souvenirs,Handicraft,5.55,332,Barcelona,Sunny,20% off,1474.08,332,Regular,294.82
+8/1/2023,Tomatoes,Vegetable,2.96,409,Madrid,Snowy,Buy 1 Get 1 Free,1210.64,409,Budget,242.13
+8/1/2023,Tomatoes,Vegetable,5.19,482,Malaga,Cold,10% off,2251.42,482,Premium,450.28
+8/1/2023,Tomatoes,Vegetable,9.81,339,Seville,Sunny,20% off,2660.47,339,Budget,532.09
+9/1/2023,Apples,Fruit,9.31,320,Valencia,Rainy,10% off,2681.28,320,Premium,536.26
+9/1/2023,Apples,Fruit,9.16,158,Malaga,Snowy,10% off,1302.55,158,Budget,260.51
+9/1/2023,Apples,Fruit,1.9,188,Madrid,Sunny,20% off,285.76,188,Premium,57.15
+9/1/2023,Oranges,Fruit,9.37,400,Barcelona,Sunny,10% off,3373.2,400,Regular,674.64
+9/1/2023,Oranges,Fruit,9.39,141,Valencia,Cold,None,1323.99,141,Premium,264.8
+9/1/2023,Oranges,Fruit,9.67,58,Seville,Rainy,20% off,448.69,58,Regular,89.74
+9/1/2023,Handmade Crafts,Handicraft,8.48,435,Malaga,Snowy,None,3688.8,435,Premium,737.76
+9/1/2023,Handmade Crafts,Handicraft,4.04,89,Malaga,Rainy,None,359.56,89,Premium,71.91
+9/1/2023,Handmade Crafts,Handicraft,8.59,340,Valencia,Snowy,10% off,2628.54,340,Premium,525.71
+9/1/2023,Souvenirs,Handicraft,9.12,396,Madrid,Cold,Buy 1 Get 1 Free,3611.52,396,Regular,722.3
+9/1/2023,Souvenirs,Handicraft,7.92,246,Valencia,Rainy,Buy 1 Get 1 Free,1948.32,246,Premium,389.66
+9/1/2023,Souvenirs,Handicraft,9.9,454,Barcelona,Sunny,Buy 1 Get 1 Free,4494.6,454,Premium,898.92
+9/1/2023,Tomatoes,Vegetable,7.84,306,Valencia,Cold,None,2399.04,306,Regular,479.81
+9/1/2023,Tomatoes,Vegetable,2.33,77,Madrid,Rainy,10% off,161.47,77,Premium,32.29
+9/1/2023,Tomatoes,Vegetable,2.15,479,Valencia,Snowy,10% off,926.86,479,Premium,185.37
+10/1/2023,Apples,Fruit,4.27,446,Malaga,Cold,10% off,1713.98,446,Budget,342.8
+10/1/2023,Apples,Fruit,9.94,451,Malaga,Snowy,Buy 1 Get 1 Free,4482.94,451,Regular,896.59
+10/1/2023,Apples,Fruit,4.52,166,Malaga,Snowy,Buy 1 Get 1 Free,750.32,166,Regular,150.06
+10/1/2023,Oranges,Fruit,3.08,271,Barcelona,Snowy,10% off,751.21,271,Regular,150.24
+10/1/2023,Oranges,Fruit,8.06,93,Malaga,Cold,20% off,599.66,93,Budget,119.93
+10/1/2023,Oranges,Fruit,3.59,458,Barcelona,Sunny,10% off,1479.8,458,Regular,295.96
+10/1/2023,Handmade Crafts,Handicraft,3.78,92,Malaga,Snowy,20% off,278.21,92,Premium,55.64
+10/1/2023,Handmade Crafts,Handicraft,8.16,414,Barcelona,Rainy,None,3378.24,414,Regular,675.65
+10/1/2023,Handmade Crafts,Handicraft,4.81,428,Valencia,Cold,20% off,1646.94,428,Regular,329.39
+10/1/2023,Souvenirs,Handicraft,2.28,104,Madrid,Cold,Buy 1 Get 1 Free,237.12,104,Budget,47.42
+10/1/2023,Souvenirs,Handicraft,4.56,277,Valencia,Cold,None,1263.12,277,Budget,252.62
+10/1/2023,Souvenirs,Handicraft,2.63,102,Valencia,Rainy,None,268.26,102,Budget,53.65
+10/1/2023,Tomatoes,Vegetable,5.32,270,Madrid,Snowy,None,1436.4,270,Regular,287.28
+10/1/2023,Tomatoes,Vegetable,1.72,102,Valencia,Cold,10% off,157.9,102,Regular,31.58
+10/1/2023,Tomatoes,Vegetable,2.29,333,Valencia,Cold,Buy 1 Get 1 Free,762.57,333,Regular,152.51
+11/1/2023,Apples,Fruit,4.77,492,Malaga,Cold,Buy 1 Get 1 Free,2346.84,492,Premium,469.37
+11/1/2023,Apples,Fruit,4.8,261,Barcelona,Sunny,Buy 1 Get 1 Free,1252.8,261,Premium,250.56
+11/1/2023,Apples,Fruit,9.16,421,Valencia,Rainy,Buy 1 Get 1 Free,3856.36,421,Budget,771.27
+11/1/2023,Oranges,Fruit,5.93,342,Malaga,Snowy,Buy 1 Get 1 Free,2028.06,342,Regular,405.61
+11/1/2023,Oranges,Fruit,2.68,136,Valencia,Cold,None,364.48,136,Regular,72.9
+11/1/2023,Oranges,Fruit,5.69,187,Seville,Sunny,None,1064.03,187,Regular,212.81
+11/1/2023,Handmade Crafts,Handicraft,5.19,135,Malaga,Snowy,10% off,630.59,165,Regular,126.12
+11/1/2023,Handmade Crafts,Handicraft,5.62,203,Malaga,Sunny,20% off,912.69,233,Regular,182.54
+11/1/2023,Handmade Crafts,Handicraft,3.64,234,Valencia,Rainy,10% off,766.58,264,Regular,153.32
+11/1/2023,Souvenirs,Handicraft,6.81,419,Seville,Rainy,None,2853.39,449,Regular,570.68
+11/1/2023,Souvenirs,Handicraft,2.41,284,Barcelona,Cold,10% off,616,314,Regular,123.2
+11/1/2023,Souvenirs,Handicraft,9.56,53,Malaga,Cold,Buy 1 Get 1 Free,506.68,83,Premium,101.34
+11/1/2023,Tomatoes,Vegetable,6.77,480,Madrid,Cold,None,3249.6,480,Regular,649.92
+11/1/2023,Tomatoes,Vegetable,4.35,275,Madrid,Rainy,None,1196.25,275,Budget,239.25
+11/1/2023,Tomatoes,Vegetable,4.23,203,Seville,Rainy,10% off,772.82,203,Premium,154.56
+12/1/2023,Apples,Fruit,4.17,295,Valencia,Snowy,10% off,1107.14,295,Regular,221.43
+12/1/2023,Apples,Fruit,3.98,213,Madrid,Snowy,Buy 1 Get 1 Free,847.74,213,Premium,169.55
+12/1/2023,Apples,Fruit,8.15,344,Madrid,Cold,20% off,2242.88,344,Premium,448.58
+12/1/2023,Oranges,Fruit,3.88,242,Seville,Snowy,20% off,751.17,242,Budget,150.23
+12/1/2023,Oranges,Fruit,2.47,236,Barcelona,Rainy,10% off,524.63,236,Premium,104.93
+12/1/2023,Oranges,Fruit,9.98,353,Barcelona,Rainy,20% off,2818.35,353,Budget,563.67
+12/1/2023,Handmade Crafts,Handicraft,8.02,399,Barcelona,Sunny,None,3199.98,429,Regular,640
+12/1/2023,Handmade Crafts,Handicraft,5.42,422,Barcelona,Rainy,20% off,1829.79,452,Regular,365.96
+12/1/2023,Handmade Crafts,Handicraft,8.28,274,Malaga,Sunny,10% off,2041.85,304,Budget,408.37
+12/1/2023,Souvenirs,Handicraft,8.71,469,Malaga,Snowy,None,4084.99,499,Regular,817
+12/1/2023,Souvenirs,Handicraft,5.74,394,Barcelona,Cold,None,2261.56,424,Regular,452.31
+12/1/2023,Souvenirs,Handicraft,3.65,173,Madrid,Rainy,None,631.45,203,Regular,126.29
+12/1/2023,Tomatoes,Vegetable,5.1,416,Valencia,Snowy,None,2121.6,416,Regular,424.32
+12/1/2023,Tomatoes,Vegetable,5.32,87,Seville,Snowy,Buy 1 Get 1 Free,462.84,87,Budget,92.57
+12/1/2023,Tomatoes,Vegetable,4.91,348,Malaga,Snowy,Buy 1 Get 1 Free,1708.68,348,Regular,341.74
